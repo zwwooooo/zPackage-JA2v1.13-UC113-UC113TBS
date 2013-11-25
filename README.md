@@ -3,6 +3,8 @@ zww's JA2 1.13 Packages
 
 1.13 + UC1.13 + UC1.13TBS lang zh_CN + ja2_cn.exe（简称：JA2 1.13 + UC1.13 TBS中文汉化版）
 
+这里只是打包，详情请到 UC1.13 熊窝贴 http://www.bears-pit.com/board/ubbthreads.php/forums/69/1/UC_DL_1_13_AFS.html
+
 注意1：下面列出的 Ja2_Options.INI 选项不要去修改
 ----
 ENABLE_CREPITUS = FALSE
