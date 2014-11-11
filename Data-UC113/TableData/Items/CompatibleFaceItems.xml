@@ -45,14 +45,6 @@
 		<itemIndex>449</itemIndex>
 	</COMPATIBLEFACEITEM>
 	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>210</compatiblefaceitemIndex>
-		<itemIndex>694</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>210</compatiblefaceitemIndex>
-		<itemIndex>695</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
 		<compatiblefaceitemIndex>211</compatiblefaceitemIndex>
 		<itemIndex>210</itemIndex>
 	</COMPATIBLEFACEITEM>
@@ -133,14 +125,6 @@
 		<itemIndex>902</itemIndex>
 	</COMPATIBLEFACEITEM>
 	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>213</compatiblefaceitemIndex>
-		<itemIndex>694</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>213</compatiblefaceitemIndex>
-		<itemIndex>695</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
 		<compatiblefaceitemIndex>246</compatiblefaceitemIndex>
 		<itemIndex>210</itemIndex>
 	</COMPATIBLEFACEITEM>
@@ -197,14 +181,6 @@
 		<itemIndex>902</itemIndex>
 	</COMPATIBLEFACEITEM>
 	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>259</compatiblefaceitemIndex>
-		<itemIndex>694</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>259</compatiblefaceitemIndex>
-		<itemIndex>695</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
 		<compatiblefaceitemIndex>387</compatiblefaceitemIndex>
 		<itemIndex>211</itemIndex>
 	</COMPATIBLEFACEITEM>
@@ -243,14 +219,6 @@
 	<COMPATIBLEFACEITEM>
 		<compatiblefaceitemIndex>387</compatiblefaceitemIndex>
 		<itemIndex>902</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>387</compatiblefaceitemIndex>
-		<itemIndex>694</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>387</compatiblefaceitemIndex>
-		<itemIndex>695</itemIndex>
 	</COMPATIBLEFACEITEM>
 	<COMPATIBLEFACEITEM>
 		<compatiblefaceitemIndex>449</compatiblefaceitemIndex>
@@ -286,38 +254,6 @@
 	</COMPATIBLEFACEITEM>
 	<COMPATIBLEFACEITEM>
 		<compatiblefaceitemIndex>685</compatiblefaceitemIndex>
-		<itemIndex>387</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>694</compatiblefaceitemIndex>
-		<itemIndex>210</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>694</compatiblefaceitemIndex>
-		<itemIndex>213</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>694</compatiblefaceitemIndex>
-		<itemIndex>259</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>694</compatiblefaceitemIndex>
-		<itemIndex>387</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>695</compatiblefaceitemIndex>
-		<itemIndex>210</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>695</compatiblefaceitemIndex>
-		<itemIndex>213</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>695</compatiblefaceitemIndex>
-		<itemIndex>259</itemIndex>
-	</COMPATIBLEFACEITEM>
-	<COMPATIBLEFACEITEM>
-		<compatiblefaceitemIndex>695</compatiblefaceitemIndex>
 		<itemIndex>387</itemIndex>
 	</COMPATIBLEFACEITEM>
 	<COMPATIBLEFACEITEM>

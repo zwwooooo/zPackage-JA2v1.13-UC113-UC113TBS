@@ -243,7 +243,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>0</highExplosive>
+		<highExplosive>118</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -465,13 +465,13 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>1</highExplosive>
+		<highExplosive>403</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
 		<knife>0</knife>
 		<monsterSpit>0</monsterSpit>
-		<acidic>0</acidic>
+		<acidic>1</acidic>
 		<ignoreArmour>1</ignoreArmour>
 		<lockBustingPower>0</lockBustingPower>
 		<tracerEffect>1</tracerEffect>
@@ -1131,7 +1131,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>2</highExplosive>
+		<highExplosive>120</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -1168,7 +1168,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>3</highExplosive>
+		<highExplosive>121</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -1205,7 +1205,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>4</highExplosive>
+		<highExplosive>122</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -1242,7 +1242,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>5</highExplosive>
+		<highExplosive>123</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -1279,7 +1279,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>6</highExplosive>
+		<highExplosive>124</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -1316,7 +1316,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>7</highExplosive>
+		<highExplosive>125</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -1353,7 +1353,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>8</highExplosive>
+		<highExplosive>126</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -1390,7 +1390,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>9</highExplosive>
+		<highExplosive>127</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>1</antiTank>
 		<dart>0</dart>
@@ -1427,7 +1427,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>10</highExplosive>
+		<highExplosive>129</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -1464,7 +1464,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>11</highExplosive>
+		<highExplosive>130</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -2167,7 +2167,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>46</highExplosive>
+		<highExplosive>1146</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -2426,7 +2426,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>114</highExplosive>
+		<highExplosive>1201</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -2463,7 +2463,7 @@
 		<numberOfBullets>1</numberOfBullets>
 		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
 		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
-		<highExplosive>115</highExplosive>
+		<highExplosive>1202</highExplosive>
 		<explosionSize>2</explosionSize>
 		<antiTank>0</antiTank>
 		<dart>0</dart>
@@ -2478,5 +2478,42 @@
 		<PoisonPercentage>0</PoisonPercentage>
 		<dirtModificator>0</dirtModificator>
 		<ammoflag>0</ammoflag>
+	</AMMOTYPE>
+	<AMMOTYPE>
+		<uiIndex>67</uiIndex>
+		<name>WP Fragment</name>
+		<fontColour>186</fontColour>
+		<grayed>8</grayed>
+		<offNormal>21</offNormal>
+		<onNormal>23</onNormal>
+		<structureImpactReductionMultiplier>1</structureImpactReductionMultiplier>
+		<structureImpactReductionDivisor>1</structureImpactReductionDivisor>
+		<armourImpactReductionMultiplier>1</armourImpactReductionMultiplier>
+		<armourImpactReductionDivisor>1</armourImpactReductionDivisor>
+		<beforeArmourDamageMultiplier>1</beforeArmourDamageMultiplier>
+		<beforeArmourDamageDivisor>1</beforeArmourDamageDivisor>
+		<afterArmourDamageMultiplier>1</afterArmourDamageMultiplier>
+		<afterArmourDamageDivisor>1</afterArmourDamageDivisor>
+		<zeroMinimumDamage>1</zeroMinimumDamage>
+		<canGoThrough>0</canGoThrough>
+		<standardIssue>0</standardIssue>
+		<numberOfBullets>1</numberOfBullets>
+		<multipleBulletDamageMultiplier>1</multipleBulletDamageMultiplier>
+		<multipleBulletDamageDivisor>1</multipleBulletDamageDivisor>
+		<highExplosive>0</highExplosive>
+		<explosionSize>0</explosionSize>
+		<antiTank>0</antiTank>
+		<dart>0</dart>
+		<knife>0</knife>
+		<monsterSpit>0</monsterSpit>
+		<acidic>1</acidic>
+		<ignoreArmour>1</ignoreArmour>
+		<lockBustingPower>0</lockBustingPower>
+		<tracerEffect>1</tracerEffect>
+		<spreadPattern />
+		<temperatureModificator>0</temperatureModificator>
+		<PoisonPercentage>0</PoisonPercentage>
+		<dirtModificator>0</dirtModificator>
+		<ammoflag>2</ammoflag>
 	</AMMOTYPE>
 </AMMOTYPELIST>

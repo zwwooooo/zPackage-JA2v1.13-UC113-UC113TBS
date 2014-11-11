@@ -53,7 +53,7 @@
 		<name>Optics - PRC</name>
 	</AttachmentPoint>
 	<AttachmentPoint>
-		<id>280</id>
+		<id>272</id>
 		<name>Fits - Lite RIS &amp; PRC Optics</name>
 	</AttachmentPoint>
 	<AttachmentPoint>
@@ -255,6 +255,10 @@
 	<AttachmentPoint>
 		<id>268435458</id>
 		<name>T - Basic Rifle</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>402653184</id>
+		<name>T - Basic Rifle w/Foregrip, no Laser</name>
 	</AttachmentPoint>
 	<AttachmentPoint>
 		<id>402653186</id>

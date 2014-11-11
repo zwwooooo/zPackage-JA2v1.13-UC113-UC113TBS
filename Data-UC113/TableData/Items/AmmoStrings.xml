@@ -463,7 +463,7 @@
 	<AMMO>
 		<uiIndex>92</uiIndex>
 		<AmmoCaliber>.410 Upper</AmmoCaliber>
-		<BRCaliber>.410 Upper</BRCaliber>
+		<BRCaliber>.410 Bore</BRCaliber>
 	</AMMO>
 	<AMMO>
 		<uiIndex>93</uiIndex>
@@ -473,6 +473,11 @@
 	<AMMO>
 		<uiIndex>94</uiIndex>
 		<AmmoCaliber>.458 Upper</AmmoCaliber>
-		<BRCaliber>.458 Upper</BRCaliber>
+		<BRCaliber>.458 SOCOM</BRCaliber>
+	</AMMO>
+	<AMMO>
+		<uiIndex>95</uiIndex>
+		<AmmoCaliber>7.62x39mm Upper</AmmoCaliber>
+		<BRCaliber>7.62x39 mm</BRCaliber>
 	</AMMO>
 </AMMOLIST>

@@ -14,6 +14,10 @@ Facts =
     FACT_ROBOT_READY_SECOND_TIME = 205,
     FACT_SECOND_ROBOT_DESTROYED = 206,
 	FACT_ESTONI_REFUELLING_POSSIBLE = 277,
+	FACT_KINGPIN_KNOWS_MONEY_GONE = 103,
+	FACT_PLAYER_REPAID_KINGPIN = 104,
+	FACT_KINGPIN_NOT_IN_OFFICE = 256,
+
 }
 
 Attitude = 
@@ -160,6 +164,19 @@ SectorY =
 	MAP_ROW_P = 16,
 }
 
+local iLoop
+local aimLoop
+
+local HEARD_3_TURNS_AGO	= -4
+local HEARD_2_TURNS_AGO	= -3
+local HEARD_LAST_TURN	=  -2
+local HEARD_THIS_TURN	= -1
+local NOT_HEARD_OR_SEEN	= 0
+local SEEN_CURRENTLY	= 1
+local SEEN_THIS_TURN	= 2
+local SEEN_LAST_TURN	= 3
+local SEEN_2_TURNS_AGO	=4
+local SEEN_3_TURNS_AGO = 5
 
 -- local function
 local function HandleJohnArrival( ID )
@@ -242,6 +259,28 @@ function HandleAtNewGridNo( ProfileId )
 	
 	if ( TeamSoldier == Team.OUR_TEAM ) then -- Team
 	
+		-- Kingping expecting visit from player (Sector D5)
+		-- The fact has to be TRUE. If FALSE then Kingpin attack the player.
+		if ( CheckFact( 98, ProfileId ) == false ) then 
+		   if ( NPCInRoomRange( ProfileId, 30, 39 ) == true and gWorldSectorX == 5 and gWorldSectorY == SectorY.MAP_ROW_D and gWorldSectorZ == 0 )then 
+		
+				for iLoop = GetTacticalStatusFirstID(Team.CIV_TEAM),GetTacticalStatusLastID(Team.CIV_TEAM) do
+					if ( CheckMercPtrsInSector (iLoop) == true and CheckMercPtrsInActive(iLoop) == true and CheckMercPtrsInCivilianGroup (iLoop) == 2 ) then
+						for aimLoop=GetTacticalStatusFirstID(Team.OUR_TEAM),GetTacticalStatusLastID(Team.OUR_TEAM) do
+							if ( CheckMercPtrsID1SeenID2(iLoop,aimLoop) == SEEN_CURRENTLY ) then
+								MakeMercPtrsHostile( iLoop )
+							end
+						end	
+					end	
+				end
+ 
+				if ( CheckCombatMode == false ) then
+					EnterTeamCombatMode(Team.CIV_TEAM)
+				end	
+	
+			end	
+		end
+	
 		if ( WhatKindOfMercAmI (ProfileId) == What.MERC_TYPE__EPC ) then -- what EPC
 		
 			-- Skyrider
@@ -250,8 +289,9 @@ function HandleAtNewGridNo( ProfileId )
 					SetFactTrue( Facts.FACT_SKYRIDER_CLOSE_TO_CHOPPER )
 					TriggerNPCRecord( Profil.SKYRIDER, 15 )
 					SetUpHelicopterForPlayer( 13, SectorY.MAP_ROW_B, Profil.SKYRIDER, 163 ) -- 163 helicopter
-							
-			elseif ( ProfileIdsSectorX == 13 and ProfileIdsSectorY == SectorY.MAP_ROW_B and ProfileIdbSectorZ == 0 ) then
+			
+			-- Mary & John				
+			elseif ( ( CheckNPCSectorBool( Profil.MARY, 13, SectorY.MAP_ROW_B, 0 ) == true ) or ( CheckNPCSectorBool( Profil.JOHN, 13, SectorY.MAP_ROW_B, 0 ) == true ) ) then
 					
 					-- Mary	
 					if ( ProfileId == Profil.MARY ) then
@@ -277,7 +317,7 @@ function HandleAtNewGridNo( ProfileId )
 		-- Drassen stuff for John & Mary
 		elseif ( CheckQuest(Quests.QUEST_ESCORT_TOURISTS) == pQuest.QUESTINPROGRESS and ProfileIdsSectorX == 13 and ProfileIdsSectorY == SectorY.MAP_ROW_B and ProfileIdbSectorZ == 0 ) then
 			
-		if ( CheckFact( FACT_JOHN_ALIVE) == true ) then
+		if ( CheckFact( Facts.FACT_JOHN_ALIVE, 0 ) == true ) then
 				HandleJohnArrival( nil )
 		else
 				HandleMaryArrival( nil )

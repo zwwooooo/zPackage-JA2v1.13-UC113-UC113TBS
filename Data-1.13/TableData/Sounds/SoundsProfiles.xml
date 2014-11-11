@@ -261,7 +261,7 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>52</uiIndex>
-		<Name>PGmale2 </Name>
+		<Name>PGmale2</Name>
 		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
@@ -786,7 +786,7 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>157</uiIndex>
-		<Name>Calvin </Name>
+		<Name>Calvin</Name>
 		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
@@ -816,12 +816,12 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>163</uiIndex>
-		<Name></Name>
+		<Name>Heli</Name>
 		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>164</uiIndex>
-		<Name></Name>
+		<Name>Tank</Name>
 		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
@@ -961,42 +961,42 @@
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>192</uiIndex>
-		<Name></Name>
-		<EnabledSound>0</EnabledSound>
+		<Name>PGmale5</Name>
+		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>193</uiIndex>
-		<Name></Name>
-		<EnabledSound>0</EnabledSound>
+		<Name>PGmale6</Name>
+		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>194</uiIndex>
-		<Name></Name>
-		<EnabledSound>0</EnabledSound>
+		<Name>PGmale7</Name>
+		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>195</uiIndex>
-		<Name></Name>
-		<EnabledSound>0</EnabledSound>
+		<Name>John</Name>
+		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>196</uiIndex>
-		<Name></Name>
-		<EnabledSound>0</EnabledSound>
+		<Name>Elio</Name>
+		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>197</uiIndex>
-		<Name></Name>
-		<EnabledSound>0</EnabledSound>
+		<Name>Juan</Name>
+		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>198</uiIndex>
-		<Name></Name>
-		<EnabledSound>0</EnabledSound>
+		<Name>Wahan</Name>
+		<EnabledSound>1</EnabledSound>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>199</uiIndex>
-		<Name></Name>
+		<Name>Jeep</Name>
 		<EnabledSound>0</EnabledSound>
 	</PROFILE>
 	<PROFILE>

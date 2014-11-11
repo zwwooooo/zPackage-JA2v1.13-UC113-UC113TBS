@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<POCKETLIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POCKETLIST>
 	<POCKET>
 		<pIndex>0</pIndex>
 		<pName>Nothing</pName>
@@ -253,7 +253,7 @@
 		<pIndex>1</pIndex>
 		<pName>Gun Sling</pName>
 		<pSilhouette>5</pSilhouette>
-		<pVolume>1</pVolume>
+		<pVolume>8</pVolume>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
@@ -282,6 +282,9 @@
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize51>1</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>1</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>1</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>1</ItemCapacityPerSize73>
@@ -293,6 +296,8 @@
 		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>1</ItemCapacityPerSize111>
 		<ItemCapacityPerSize121>1</ItemCapacityPerSize121>
 		<ItemCapacityPerSize122>1</ItemCapacityPerSize122>
@@ -301,7 +306,6 @@
 		<ItemCapacityPerSize127>1</ItemCapacityPerSize127>
 		<ItemCapacityPerSize131>1</ItemCapacityPerSize131>
 		<ItemCapacityPerSize133>1</ItemCapacityPerSize133>
-		<ItemCapacityPerSize152>1</ItemCapacityPerSize152>
 		<ItemCapacityPerSize155>1</ItemCapacityPerSize155>
 		<ItemCapacityPerSize156>1</ItemCapacityPerSize156>
 		<ItemCapacityPerSize158>1</ItemCapacityPerSize158>
@@ -348,6 +352,9 @@
 		<ItemCapacityPerSize49>1</ItemCapacityPerSize49>
 		<ItemCapacityPerSize51>20</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>20</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>20</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>20</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>20</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>120</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>120</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>120</ItemCapacityPerSize73>
@@ -373,6 +380,8 @@
 		<ItemCapacityPerSize104>16</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>10</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>16</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>16</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>16</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>90</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>9</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>9</ItemCapacityPerSize117>
@@ -405,7 +414,7 @@
 		<pName>Backpack</pName>
 		<pSilhouette>7</pSilhouette>
 		<pType>3</pType>
-		<pVolume>1</pVolume>
+		<pVolume>8</pVolume>
 		<ItemCapacityPerSize0>8</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>8</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>8</ItemCapacityPerSize2>
@@ -432,6 +441,9 @@
 		<ItemCapacityPerSize47>1</ItemCapacityPerSize47>
 		<ItemCapacityPerSize51>10</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>12</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>12</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>12</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>12</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>100</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>100</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>100</ItemCapacityPerSize73>
@@ -457,6 +469,8 @@
 		<ItemCapacityPerSize104>8</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>8</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>8</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>8</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>8</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>75</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>7</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>7</ItemCapacityPerSize117>
@@ -487,7 +501,7 @@
 		<pName>Large (Combat Pack)</pName>
 		<pSilhouette>6</pSilhouette>
 		<pType>3</pType>
-		<pVolume>1</pVolume>
+		<pVolume>8</pVolume>
 		<ItemCapacityPerSize0>5</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>5</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>5</ItemCapacityPerSize2>
@@ -513,6 +527,9 @@
 		<ItemCapacityPerSize46>1</ItemCapacityPerSize46>
 		<ItemCapacityPerSize51>8</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>8</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>8</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>8</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>8</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>80</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>80</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>80</ItemCapacityPerSize73>
@@ -538,6 +555,8 @@
 		<ItemCapacityPerSize104>6</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>5</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>6</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>6</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>6</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>60</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>6</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>6</ItemCapacityPerSize117>
@@ -587,7 +606,7 @@
 		<pName>SMG Holster</pName>
 		<pSilhouette>9</pSilhouette>
 		<pType>2</pType>
-		<pVolume>2</pVolume>
+		<pVolume>6</pVolume>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
@@ -607,7 +626,7 @@
 		<pName>Medium General</pName>
 		<pSilhouette>8</pSilhouette>
 		<pType>2</pType>
-		<pVolume>2</pVolume>
+		<pVolume>4</pVolume>
 		<ItemCapacityPerSize0>2</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>2</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>2</ItemCapacityPerSize2>
@@ -622,6 +641,9 @@
 		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>
 		<ItemCapacityPerSize51>5</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>5</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>5</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>5</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>5</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>40</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>40</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>40</ItemCapacityPerSize73>
@@ -647,6 +669,8 @@
 		<ItemCapacityPerSize104>4</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>3</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>4</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>4</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>4</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>30</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>3</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>3</ItemCapacityPerSize117>
@@ -672,9 +696,12 @@
 		<pName>Long Magazine</pName>
 		<pSilhouette>19</pSilhouette>
 		<pType>1</pType>
-		<pVolume>1</pVolume>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize51>3</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>20</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>20</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>20</ItemCapacityPerSize73>
@@ -708,12 +735,15 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>10</pIndex>
-		<pName>AR Mag</pName>
+		<pName>AR Mag, 2x</pName>
 		<pSilhouette>26</pSilhouette>
 		<pType>1</pType>
-		<pVolume>1</pVolume>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize51>3</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>20</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>20</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>20</ItemCapacityPerSize73>
@@ -737,6 +767,8 @@
 		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>15</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
@@ -756,7 +788,7 @@
 		<pSilhouette>13</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>2</pRestriction>
-		<pVolume>2</pVolume>
+		<pVolume>5</pVolume>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
 		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
@@ -766,8 +798,11 @@
 		<pName>SMG Mag</pName>
 		<pSilhouette>17</pSilhouette>
 		<pType>1</pType>
-		<pVolume>1</pVolume>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>4</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>4</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>4</ItemCapacityPerSize73>
@@ -793,9 +828,14 @@
 		<pRestriction>256</pRestriction>
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
 	</POCKET>
 	<POCKET>
 		<pIndex>14</pIndex>
@@ -805,8 +845,13 @@
 		<pRestriction>256</pRestriction>
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
 	</POCKET>
 	<POCKET>
 		<pIndex>15</pIndex>
@@ -815,6 +860,9 @@
 		<pType>1</pType>
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>2</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>2</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>2</ItemCapacityPerSize73>
@@ -834,8 +882,12 @@
 		<pSilhouette>20</pSilhouette>
 		<pType>1</pType>
 		<pVolume>1</pVolume>
+		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize51>1</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>10</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>10</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>10</ItemCapacityPerSize73>
@@ -867,12 +919,15 @@
 		<pName>Small General</pName>
 		<pSilhouette>12</pSilhouette>
 		<pType>1</pType>
-		<pVolume>1</pVolume>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
 		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
 		<ItemCapacityPerSize51>3</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>20</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>20</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>20</ItemCapacityPerSize73>
@@ -898,6 +953,8 @@
 		<ItemCapacityPerSize104>2</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>2</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>2</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>15</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
@@ -914,9 +971,13 @@
 		<pName>Belt Clip</pName>
 		<pSilhouette>21</pSilhouette>
 		<pType>1</pType>
-		<pVolume>1</pVolume>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
 		<ItemCapacityPerSize156>1</ItemCapacityPerSize156>
 	</POCKET>
 	<POCKET>
@@ -926,6 +987,9 @@
 		<pType>1</pType>
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>2</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>2</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>2</ItemCapacityPerSize73>
@@ -945,10 +1009,10 @@
 	<POCKET>
 		<pIndex>20</pIndex>
 		<pName>Medical</pName>
-		<pSilhouette>24</pSilhouette>
+		<pSilhouette>60</pSilhouette>
 		<pType>3</pType>
 		<pRestriction>4096</pRestriction>
-		<pVolume>3</pVolume>
+		<pVolume>8</pVolume>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
@@ -971,6 +1035,9 @@
 		<ItemCapacityPerSize20>1</ItemCapacityPerSize20>
 		<ItemCapacityPerSize51>1</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>2</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>2</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>2</ItemCapacityPerSize73>
@@ -985,6 +1052,8 @@
 		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>2</ItemCapacityPerSize111>
 		<ItemCapacityPerSize121>2</ItemCapacityPerSize121>
 		<ItemCapacityPerSize122>1</ItemCapacityPerSize122>
@@ -1015,6 +1084,9 @@
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>10</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>10</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>10</ItemCapacityPerSize73>
@@ -1038,6 +1110,8 @@
 		<ItemCapacityPerSize103>1</ItemCapacityPerSize103>
 		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
 		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>8</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
@@ -1048,8 +1122,8 @@
 	<POCKET>
 		<pIndex>22</pIndex>
 		<pName>Weapon Strap</pName>
-		<pSilhouette>5</pSilhouette>
-		<pVolume>1</pVolume>
+		<pSilhouette>59</pSilhouette>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
 		<ItemCapacityPerSize5>1</ItemCapacityPerSize5>
 		<ItemCapacityPerSize6>1</ItemCapacityPerSize6>
@@ -1069,7 +1143,7 @@
 		<pSilhouette>25</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>4096</pRestriction>
-		<pVolume>1</pVolume>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize51>1</ItemCapacityPerSize51>
 		<ItemCapacityPerSize101>1</ItemCapacityPerSize101>
 		<ItemCapacityPerSize126>1</ItemCapacityPerSize126>
@@ -1085,19 +1159,25 @@
 		<pSilhouette>29</pSilhouette>
 		<pType>2</pType>
 		<pRestriction>32768</pRestriction>
-		<pVolume>1</pVolume>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize156>1</ItemCapacityPerSize156>
 	</POCKET>
 	<POCKET>
 		<pIndex>25</pIndex>
-		<pName>3x AR Mag</pName>
+		<pName>AR Mag, 3x</pName>
 		<pSilhouette>27</pSilhouette>
 		<pType>1</pType>
-		<pVolume>2</pVolume>
+		<pVolume>3</pVolume>
 		<ItemCapacityPerSize51>4</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>4</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>4</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>4</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>4</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>36</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>36</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>36</ItemCapacityPerSize73>
@@ -1122,6 +1202,8 @@
 		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>27</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>3</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>3</ItemCapacityPerSize117>
@@ -1152,6 +1234,9 @@
 		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
 		<ItemCapacityPerSize51>1</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>2</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>2</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>2</ItemCapacityPerSize73>
@@ -1165,6 +1250,8 @@
 		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>2</ItemCapacityPerSize111>
 		<ItemCapacityPerSize121>1</ItemCapacityPerSize121>
 		<ItemCapacityPerSize122>1</ItemCapacityPerSize122>
@@ -1178,10 +1265,10 @@
 	<POCKET>
 		<pIndex>27</pIndex>
 		<pName>Tac Pistol Holster</pName>
-		<pSilhouette>13</pSilhouette>
+		<pSilhouette>53</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>2</pRestriction>
-		<pVolume>2</pVolume>
+		<pVolume>6</pVolume>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
@@ -1194,7 +1281,7 @@
 		<pName>SBR Shoulder Rig</pName>
 		<pSilhouette>31</pSilhouette>
 		<pType>2</pType>
-		<pVolume>3</pVolume>
+		<pVolume>7</pVolume>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
@@ -1216,6 +1303,9 @@
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>14</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>14</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>14</ItemCapacityPerSize73>
@@ -1253,11 +1343,13 @@
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
-		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
 		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
 		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
 		<ItemCapacityPerSize51>4</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>4</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>4</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>4</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>4</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>24</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>24</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>24</ItemCapacityPerSize73>
@@ -1283,6 +1375,8 @@
 		<ItemCapacityPerSize104>2</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>2</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>2</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>2</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>18</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>2</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>2</ItemCapacityPerSize117>
@@ -1300,8 +1394,11 @@
 		<pSilhouette>29</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>32768</pRestriction>
-		<pVolume>1</pVolume>
+		<pVolume>4</pVolume>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize156>1</ItemCapacityPerSize156>
 	</POCKET>
@@ -1310,7 +1407,7 @@
 		<pName>Cargo Pocket</pName>
 		<pSilhouette>35</pSilhouette>
 		<pType>2</pType>
-		<pVolume>1</pVolume>
+		<pVolume>3</pVolume>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
@@ -1323,6 +1420,9 @@
 		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>
 		<ItemCapacityPerSize51>4</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>4</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>4</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>4</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>4</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>30</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>30</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>30</ItemCapacityPerSize73>
@@ -1348,6 +1448,8 @@
 		<ItemCapacityPerSize104>3</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>2</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>3</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>3</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>3</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>23</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>2</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>2</ItemCapacityPerSize117>
@@ -1370,10 +1472,10 @@
 	<POCKET>
 		<pIndex>33</pIndex>
 		<pName>Revolver Holster</pName>
-		<pSilhouette>33</pSilhouette>
+		<pSilhouette>57</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>2</pRestriction>
-		<pVolume>2</pVolume>
+		<pVolume>5</pVolume>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
@@ -1393,6 +1495,9 @@
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>10</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>10</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>10</ItemCapacityPerSize73>
@@ -1426,7 +1531,7 @@
 	<POCKET>
 		<pIndex>35</pIndex>
 		<pName>Combat Pistol Holster</pName>
-		<pSilhouette>13</pSilhouette>
+		<pSilhouette>53</pSilhouette>
 		<pType>1</pType>
 		<pRestriction>2</pRestriction>
 		<pVolume>2</pVolume>
@@ -1436,13 +1541,14 @@
 		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
 		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
 		<ItemCapacityPerSize5>1</ItemCapacityPerSize5>
+		<ItemCapacityPerSize6>1</ItemCapacityPerSize6>
 	</POCKET>
 	<POCKET>
 		<pIndex>36</pIndex>
 		<pName>Backpack (Heavy Weapon)</pName>
 		<pSilhouette>32</pSilhouette>
 		<pType>3</pType>
-		<pVolume>1</pVolume>
+		<pVolume>8</pVolume>
 		<ItemCapacityPerSize0>6</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>6</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>6</ItemCapacityPerSize2>
@@ -1477,6 +1583,9 @@
 		<ItemCapacityPerSize48>1</ItemCapacityPerSize48>
 		<ItemCapacityPerSize51>10</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>12</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>12</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>12</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>12</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>100</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>100</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>100</ItemCapacityPerSize73>
@@ -1502,6 +1611,8 @@
 		<ItemCapacityPerSize104>8</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>8</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>8</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>8</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>8</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>75</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>7</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>7</ItemCapacityPerSize117>
@@ -1544,6 +1655,9 @@
 		<ItemCapacityPerSize41>1</ItemCapacityPerSize41>
 		<ItemCapacityPerSize51>3</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>20</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>20</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>20</ItemCapacityPerSize73>
@@ -1569,6 +1683,8 @@
 		<ItemCapacityPerSize104>2</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>2</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>2</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>2</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>15</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
@@ -1585,12 +1701,15 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>38</pIndex>
-		<pName>2x AK Mag</pName>
+		<pName>AK Mag, 2x</pName>
 		<pSilhouette>36</pSilhouette>
 		<pType>1</pType>
-		<pVolume>1</pVolume>
+		<pVolume>2</pVolume>
 		<ItemCapacityPerSize51>3</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>20</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>20</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>20</ItemCapacityPerSize73>
@@ -1614,6 +1733,8 @@
 		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>15</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
@@ -1637,6 +1758,9 @@
 		<pRestriction>1</pRestriction>
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize151>1</ItemCapacityPerSize151>
 		<ItemCapacityPerSize155>1</ItemCapacityPerSize155>
 	</POCKET>
@@ -1648,6 +1772,9 @@
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>14</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>14</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>14</ItemCapacityPerSize73>
@@ -1690,6 +1817,9 @@
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>10</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>10</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>10</ItemCapacityPerSize73>
@@ -1796,6 +1926,9 @@
 		<ItemCapacityPerSize49>1</ItemCapacityPerSize49>
 		<ItemCapacityPerSize51>20</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>20</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>20</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>20</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>20</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>120</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>120</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>120</ItemCapacityPerSize73>
@@ -1821,6 +1954,8 @@
 		<ItemCapacityPerSize104>16</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>10</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>16</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>16</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>16</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>90</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>9</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>9</ItemCapacityPerSize117>
@@ -1864,6 +1999,9 @@
 		<ItemCapacityPerSize33>3</ItemCapacityPerSize33>
 		<ItemCapacityPerSize51>8</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>8</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>8</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>8</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>8</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>48</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>48</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>48</ItemCapacityPerSize73>
@@ -1889,6 +2027,8 @@
 		<ItemCapacityPerSize104>4</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>4</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>4</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>4</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>4</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>36</ItemCapacityPerSize111>
 		<ItemCapacityPerSize116>3</ItemCapacityPerSize116>
 		<ItemCapacityPerSize117>3</ItemCapacityPerSize117>
@@ -1902,12 +2042,15 @@
 	</POCKET>
 	<POCKET>
 		<pIndex>45</pIndex>
-		<pName>LBE Strap</pName>
+		<pName>D-Ring Carabiner</pName>
 		<pSilhouette>43</pSilhouette>
 		<pType>1</pType>
-		<pVolume>1</pVolume>
 		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
 		<ItemCapacityPerSize156>1</ItemCapacityPerSize156>
 		<ItemCapacityPerSize158>1</ItemCapacityPerSize158>
 	</POCKET>
@@ -1918,6 +2061,9 @@
 		<pType>1</pType>
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize156>1</ItemCapacityPerSize156>
 		<ItemCapacityPerSize158>1</ItemCapacityPerSize158>
@@ -1928,7 +2074,7 @@
 		<pSilhouette>44</pSilhouette>
 		<pType>3</pType>
 		<pRestriction>256</pRestriction>
-		<pVolume>6</pVolume>
+		<pVolume>8</pVolume>
 		<ItemCapacityPerSize13>1</ItemCapacityPerSize13>
 		<ItemCapacityPerSize14>1</ItemCapacityPerSize14>
 		<ItemCapacityPerSize15>1</ItemCapacityPerSize15>
@@ -1942,7 +2088,7 @@
 		<pSilhouette>45</pSilhouette>
 		<pType>3</pType>
 		<pRestriction>16</pRestriction>
-		<pVolume>6</pVolume>
+		<pVolume>8</pVolume>
 		<ItemCapacityPerSize13>1</ItemCapacityPerSize13>
 		<ItemCapacityPerSize14>1</ItemCapacityPerSize14>
 		<ItemCapacityPerSize15>1</ItemCapacityPerSize15>
@@ -1954,6 +2100,9 @@
 		<pType>1</pType>
 		<pVolume>2</pVolume>
 		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>4</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>4</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>4</ItemCapacityPerSize73>
@@ -1972,8 +2121,11 @@
 		<pName>Pistol Mag, 3x</pName>
 		<pSilhouette>47</pSilhouette>
 		<pType>1</pType>
-		<pVolume>2</pVolume>
+		<pVolume>3</pVolume>
 		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>6</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>6</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>6</ItemCapacityPerSize73>
@@ -1992,8 +2144,11 @@
 		<pName>SMG Mag, 2x</pName>
 		<pSilhouette>48</pSilhouette>
 		<pType>1</pType>
-		<pVolume>2</pVolume>
+		<pVolume>4</pVolume>
 		<ItemCapacityPerSize56>4</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>4</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>4</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>4</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>8</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>8</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>8</ItemCapacityPerSize73>
@@ -2016,8 +2171,11 @@
 		<pName>SMG Mag, 3x</pName>
 		<pSilhouette>49</pSilhouette>
 		<pType>1</pType>
-		<pVolume>2</pVolume>
+		<pVolume>6</pVolume>
 		<ItemCapacityPerSize56>6</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>6</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>6</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>6</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>12</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>12</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>12</ItemCapacityPerSize73>
@@ -2038,10 +2196,10 @@
 	<POCKET>
 		<pIndex>53</pIndex>
 		<pName>Toolkit</pName>
-		<pSilhouette>42</pSilhouette>
+		<pSilhouette>63</pSilhouette>
 		<pType>2</pType>
 		<pRestriction>8192</pRestriction>
-		<pVolume>3</pVolume>
+		<pVolume>5</pVolume>
 		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
 		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
 		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
@@ -2064,6 +2222,9 @@
 		<ItemCapacityPerSize20>1</ItemCapacityPerSize20>
 		<ItemCapacityPerSize51>1</ItemCapacityPerSize51>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize71>2</ItemCapacityPerSize71>
 		<ItemCapacityPerSize72>2</ItemCapacityPerSize72>
 		<ItemCapacityPerSize73>2</ItemCapacityPerSize73>
@@ -2078,6 +2239,8 @@
 		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
 		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
 		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
 		<ItemCapacityPerSize111>2</ItemCapacityPerSize111>
 		<ItemCapacityPerSize121>2</ItemCapacityPerSize121>
 		<ItemCapacityPerSize122>1</ItemCapacityPerSize122>
@@ -2108,6 +2271,9 @@
 		<pRestriction>8192</pRestriction>
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 	</POCKET>
 	<POCKET>
 		<pIndex>55</pIndex>
@@ -2117,6 +2283,9 @@
 		<pRestriction>8192</pRestriction>
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
 		<ItemCapacityPerSize101>1</ItemCapacityPerSize101>
 	</POCKET>
 	<POCKET>
@@ -2127,5 +2296,1308 @@
 		<pRestriction>268435456</pRestriction>
 		<pVolume>1</pVolume>
 		<ItemCapacityPerSize131>1</ItemCapacityPerSize131>
+	</POCKET>
+	<POCKET>
+		<pIndex>57</pIndex>
+		<pName>Large Pistol Holster</pName>
+		<pSilhouette>53</pSilhouette>
+		<pType>2</pType>
+		<pRestriction>2</pRestriction>
+		<pVolume>4</pVolume>
+	</POCKET>
+	<POCKET>
+		<pIndex>58</pIndex>
+		<pName>Shotgun Shells</pName>
+		<pSilhouette>41</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize51>3</ItemCapacityPerSize51>
+		<ItemCapacityPerSize71>30</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>30</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>30</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>15</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>15</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>15</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>10</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>10</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>10</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>6</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>6</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>6</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>6</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>6</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>6</ItemCapacityPerSize93>
+		<ItemCapacityPerSize96>5</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>5</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>5</ItemCapacityPerSize98>
+		<ItemCapacityPerSize101>2</ItemCapacityPerSize101>
+		<ItemCapacityPerSize111>25</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>4</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>4</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>4</ItemCapacityPerSize118>
+		<ItemCapacityPerSize155>1</ItemCapacityPerSize155>
+		<ItemCapacityPerSize179>2</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>59</pIndex>
+		<pName>Shotgun Holster</pName>
+		<pSilhouette>65</pSilhouette>
+		<pType>2</pType>
+		<pRestriction>2</pRestriction>
+		<pVolume>6</pVolume>
+		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
+		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
+		<ItemCapacityPerSize5>1</ItemCapacityPerSize5>
+		<ItemCapacityPerSize6>1</ItemCapacityPerSize6>
+		<ItemCapacityPerSize7>1</ItemCapacityPerSize7>
+		<ItemCapacityPerSize8>1</ItemCapacityPerSize8>
+		<ItemCapacityPerSize9>1</ItemCapacityPerSize9>
+		<ItemCapacityPerSize10>1</ItemCapacityPerSize10>
+		<ItemCapacityPerSize11>1</ItemCapacityPerSize11>
+	</POCKET>
+	<POCKET>
+		<pIndex>60</pIndex>
+		<pName>Throwing Knife</pName>
+		<pSilhouette>11</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>8</pRestriction>
+		<pVolume>1</pVolume>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
+	</POCKET>
+	<POCKET>
+		<pIndex>61</pIndex>
+		<pName>General Misc</pName>
+		<pSilhouette>56</pSilhouette>
+		<pType>1</pType>
+		<pVolume>1</pVolume>
+		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
+		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
+		<ItemCapacityPerSize51>4</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>4</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>4</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>4</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>4</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>24</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>24</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>24</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>12</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>12</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>12</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>6</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>6</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>6</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>3</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>3</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>3</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>2</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>2</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>2</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>2</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>4</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>4</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>4</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>4</ItemCapacityPerSize99>
+		<ItemCapacityPerSize101>2</ItemCapacityPerSize101>
+		<ItemCapacityPerSize103>2</ItemCapacityPerSize103>
+		<ItemCapacityPerSize104>2</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>2</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>2</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>2</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>18</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>2</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>2</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>2</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>9</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>6</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>1</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>4</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>2</ItemCapacityPerSize127>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>62</pIndex>
+		<pName>Small Explosive</pName>
+		<pSilhouette>58</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>512</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
+		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
+		<ItemCapacityPerSize51>4</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>4</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>4</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>4</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>4</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>24</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>24</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>24</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>12</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>12</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>12</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>6</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>6</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>6</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>3</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>3</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>3</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>2</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>2</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>2</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>2</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>4</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>4</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>4</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>4</ItemCapacityPerSize99>
+		<ItemCapacityPerSize101>2</ItemCapacityPerSize101>
+		<ItemCapacityPerSize103>2</ItemCapacityPerSize103>
+		<ItemCapacityPerSize104>2</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>2</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>2</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>2</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>18</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>2</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>2</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>2</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>9</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>6</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>1</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>4</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>2</ItemCapacityPerSize127>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>63</pIndex>
+		<pName>v1.13 Short Rifle Mag x2</pName>
+		<pSilhouette>39</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>1</pVolume>
+		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>14</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>14</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>14</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>7</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>7</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>7</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>4</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>4</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>4</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>2</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>2</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>2</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>1</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>1</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>1</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>1</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>2</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>2</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>2</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>2</ItemCapacityPerSize99>
+		<ItemCapacityPerSize111>11</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>2</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>2</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>2</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>5</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>3</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>2</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>3</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>2</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>2</ItemCapacityPerSize131>
+		<ItemCapacityPerSize132>2</ItemCapacityPerSize132>
+		<ItemCapacityPerSize133>1</ItemCapacityPerSize133>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>64</pIndex>
+		<pName>v1.13 Revolver Holster</pName>
+		<pSilhouette>57</pSilhouette>
+		<pType>2</pType>
+		<pRestriction>2</pRestriction>
+		<pVolume>3</pVolume>
+		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
+		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
+		<ItemCapacityPerSize5>1</ItemCapacityPerSize5>
+		<ItemCapacityPerSize9>1</ItemCapacityPerSize9>
+		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
+		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
+		<ItemCapacityPerSize33>1</ItemCapacityPerSize33>
+	</POCKET>
+	<POCKET>
+		<pIndex>65</pIndex>
+		<pName>Combat Pack Gun Sling</pName>
+		<pSilhouette>59</pSilhouette>
+		<pType>3</pType>
+		<pVolume>8</pVolume>
+		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
+		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
+		<ItemCapacityPerSize5>1</ItemCapacityPerSize5>
+		<ItemCapacityPerSize6>1</ItemCapacityPerSize6>
+		<ItemCapacityPerSize7>1</ItemCapacityPerSize7>
+		<ItemCapacityPerSize8>1</ItemCapacityPerSize8>
+		<ItemCapacityPerSize9>1</ItemCapacityPerSize9>
+		<ItemCapacityPerSize10>1</ItemCapacityPerSize10>
+		<ItemCapacityPerSize11>1</ItemCapacityPerSize11>
+	</POCKET>
+	<POCKET>
+		<pIndex>66</pIndex>
+		<pName>Combat Pack Small</pName>
+		<pSilhouette>56</pSilhouette>
+		<pType>3</pType>
+		<pVolume>8</pVolume>
+		<ItemCapacityPerSize0>1</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>1</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>1</ItemCapacityPerSize2>
+		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
+		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
+		<ItemCapacityPerSize51>4</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>4</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>4</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>4</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>4</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>24</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>24</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>24</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>12</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>12</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>12</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>6</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>6</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>6</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>3</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>3</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>3</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>2</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>2</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>2</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>2</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>4</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>4</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>4</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>4</ItemCapacityPerSize99>
+		<ItemCapacityPerSize101>2</ItemCapacityPerSize101>
+		<ItemCapacityPerSize103>2</ItemCapacityPerSize103>
+		<ItemCapacityPerSize104>2</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>2</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>2</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>2</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>18</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>2</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>2</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>2</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>9</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>6</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>1</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>4</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>2</ItemCapacityPerSize127>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>67</pIndex>
+		<pName>Explosives</pName>
+		<pSilhouette>10</pSilhouette>
+		<pType>2</pType>
+		<pRestriction>512</pRestriction>
+		<pVolume>4</pVolume>
+		<ItemCapacityPerSize0>2</ItemCapacityPerSize0>
+		<ItemCapacityPerSize1>2</ItemCapacityPerSize1>
+		<ItemCapacityPerSize2>2</ItemCapacityPerSize2>
+		<ItemCapacityPerSize3>1</ItemCapacityPerSize3>
+		<ItemCapacityPerSize4>1</ItemCapacityPerSize4>
+		<ItemCapacityPerSize5>1</ItemCapacityPerSize5>
+		<ItemCapacityPerSize31>1</ItemCapacityPerSize31>
+		<ItemCapacityPerSize32>1</ItemCapacityPerSize32>
+		<ItemCapacityPerSize33>1</ItemCapacityPerSize33>
+		<ItemCapacityPerSize41>2</ItemCapacityPerSize41>
+		<ItemCapacityPerSize42>1</ItemCapacityPerSize42>
+		<ItemCapacityPerSize43>1</ItemCapacityPerSize43>
+		<ItemCapacityPerSize51>5</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>5</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>5</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>5</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>5</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>40</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>40</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>40</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>20</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>20</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>20</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>10</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>10</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>10</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>5</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>5</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>5</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>4</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>4</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>4</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>4</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>7</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>7</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>7</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>7</ItemCapacityPerSize99>
+		<ItemCapacityPerSize101>2</ItemCapacityPerSize101>
+		<ItemCapacityPerSize103>4</ItemCapacityPerSize103>
+		<ItemCapacityPerSize104>4</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>3</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>4</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>4</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>4</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>30</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>3</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>3</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>3</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>15</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>10</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>3</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>5</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>3</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>3</ItemCapacityPerSize131>
+		<ItemCapacityPerSize133>2</ItemCapacityPerSize133>
+		<ItemCapacityPerSize151>1</ItemCapacityPerSize151>
+		<ItemCapacityPerSize152>2</ItemCapacityPerSize152>
+		<ItemCapacityPerSize155>1</ItemCapacityPerSize155>
+		<ItemCapacityPerSize156>1</ItemCapacityPerSize156>
+		<ItemCapacityPerSize158>2</ItemCapacityPerSize158>
+		<ItemCapacityPerSize164>1</ItemCapacityPerSize164>
+		<ItemCapacityPerSize179>2</ItemCapacityPerSize179>
+		<ItemCapacityPerSize204>2</ItemCapacityPerSize204>
+	</POCKET>
+	<POCKET>
+		<pIndex>68</pIndex>
+		<pName>Sniper Mag</pName>
+		<pSilhouette>62</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>14</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>14</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>14</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>7</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>7</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>7</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>4</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>4</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>4</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>2</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>2</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>2</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>1</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>1</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>1</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>1</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>2</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>2</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>2</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>2</ItemCapacityPerSize99>
+		<ItemCapacityPerSize111>11</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>2</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>2</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>2</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>5</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>3</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>2</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>3</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>2</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>2</ItemCapacityPerSize131>
+		<ItemCapacityPerSize132>2</ItemCapacityPerSize132>
+		<ItemCapacityPerSize133>1</ItemCapacityPerSize133>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>69</pIndex>
+		<pName>Loose Ammo, 7rd</pName>
+		<pSilhouette>54</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>1</pVolume>
+		<ItemCapacityPerSize51>1</ItemCapacityPerSize51>
+		<ItemCapacityPerSize71>7</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>7</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>7</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>4</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>4</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>4</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>3</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>3</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>3</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>2</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>2</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>2</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>2</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>2</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>2</ItemCapacityPerSize93>
+		<ItemCapacityPerSize96>1</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>1</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>1</ItemCapacityPerSize98>
+		<ItemCapacityPerSize101>1</ItemCapacityPerSize101>
+		<ItemCapacityPerSize111>6</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>1</ItemCapacityPerSize118>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>70</pIndex>
+		<pName>AR Mag, 1x</pName>
+		<pSilhouette>26</pSilhouette>
+		<pType>1</pType>
+		<pVolume>1</pVolume>
+		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>10</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>10</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>10</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>5</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>5</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>5</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>3</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>3</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>3</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>2</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>2</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>2</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>1</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>1</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>1</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>1</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>2</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>2</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>2</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>2</ItemCapacityPerSize99>
+		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>8</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>1</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>4</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>3</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>1</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>2</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>1</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>1</ItemCapacityPerSize131>
+		<ItemCapacityPerSize133>1</ItemCapacityPerSize133>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>71</pIndex>
+		<pName>Cylinder (Half Small), 3x</pName>
+		<pSilhouette>64</pSilhouette>
+		<pType>1</pType>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize51>6</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>6</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>6</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>6</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>6</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>30</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>30</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>30</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>15</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>15</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>15</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>9</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>9</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>9</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>3</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>3</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>3</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>3</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>3</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>3</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>3</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>6</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>6</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>6</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>6</ItemCapacityPerSize99>
+		<ItemCapacityPerSize103>3</ItemCapacityPerSize103>
+		<ItemCapacityPerSize104>3</ItemCapacityPerSize104>
+		<ItemCapacityPerSize107>3</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>3</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>3</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>24</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>3</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>3</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>3</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>15</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>9</ItemCapacityPerSize122>
+	</POCKET>
+	<POCKET>
+		<pIndex>72</pIndex>
+		<pName>Grenade, 3x</pName>
+		<pSilhouette>15</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>256</pRestriction>
+		<pVolume>1</pVolume>
+		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
+		<ItemCapacityPerSize106>3</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>3</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>3</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>3</ItemCapacityPerSize109>
+	</POCKET>
+	<POCKET>
+		<pIndex>73</pIndex>
+		<pName>Knife, Big</pName>
+		<pSilhouette>11</pSilhouette>
+		<pRestriction>4</pRestriction>
+		<pVolume>1</pVolume>
+		<ItemCapacityPerSize51>1</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>1</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>1</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>1</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>1</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>1</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>1</ItemCapacityPerSize78>
+		<ItemCapacityPerSize101>1</ItemCapacityPerSize101>
+		<ItemCapacityPerSize103>1</ItemCapacityPerSize103>
+		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>1</ItemCapacityPerSize111>
+		<ItemCapacityPerSize121>1</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>1</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>1</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>1</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>1</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>1</ItemCapacityPerSize131>
+		<ItemCapacityPerSize133>1</ItemCapacityPerSize133>
+		<ItemCapacityPerSize152>1</ItemCapacityPerSize152>
+		<ItemCapacityPerSize155>1</ItemCapacityPerSize155>
+		<ItemCapacityPerSize156>1</ItemCapacityPerSize156>
+		<ItemCapacityPerSize158>1</ItemCapacityPerSize158>
+		<ItemCapacityPerSize164>1</ItemCapacityPerSize164>
+		<ItemCapacityPerSize204>1</ItemCapacityPerSize204>
+	</POCKET>
+	<POCKET>
+		<pIndex>74</pIndex>
+		<pName>M-LBE Pistol Mag, 1x</pName>
+		<pSilhouette>16</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>1</pVolume>
+		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>2</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>2</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>2</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>1</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>1</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>1</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>1</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>1</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>1</ItemCapacityPerSize83>
+		<ItemCapacityPerSize111>2</ItemCapacityPerSize111>
+		<ItemCapacityPerSize121>1</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>1</ItemCapacityPerSize122>
+	</POCKET>
+	<POCKET>
+		<pIndex>75</pIndex>
+		<pName>M-LBE Pistol Mag, 2x</pName>
+		<pSilhouette>46</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>4</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>4</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>4</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>2</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>2</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>2</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>2</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>2</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>2</ItemCapacityPerSize83>
+		<ItemCapacityPerSize111>3</ItemCapacityPerSize111>
+		<ItemCapacityPerSize121>2</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>2</ItemCapacityPerSize122>
+	</POCKET>
+	<POCKET>
+		<pIndex>76</pIndex>
+		<pName>M-LBE Pistol Mag, 3x</pName>
+		<pSilhouette>47</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>3</pVolume>
+		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>6</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>6</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>6</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>3</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>3</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>3</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>3</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>3</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>3</ItemCapacityPerSize83>
+		<ItemCapacityPerSize111>5</ItemCapacityPerSize111>
+		<ItemCapacityPerSize121>3</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>3</ItemCapacityPerSize122>
+	</POCKET>
+	<POCKET>
+		<pIndex>77</pIndex>
+		<pName>M-LBE SMG Mag, 1x</pName>
+		<pSilhouette>17</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>4</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>4</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>4</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>2</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>2</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>2</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>1</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>1</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>1</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>1</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>1</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>1</ItemCapacityPerSize88>
+		<ItemCapacityPerSize111>3</ItemCapacityPerSize111>
+		<ItemCapacityPerSize121>1</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>1</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>1</ItemCapacityPerSize123>
+	</POCKET>
+	<POCKET>
+		<pIndex>78</pIndex>
+		<pName>M-LBE SMG Mag, 2x</pName>
+		<pSilhouette>48</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>4</pVolume>
+		<ItemCapacityPerSize56>4</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>4</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>4</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>4</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>8</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>8</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>8</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>4</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>4</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>4</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>2</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>2</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>2</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>2</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>2</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>2</ItemCapacityPerSize88>
+		<ItemCapacityPerSize111>6</ItemCapacityPerSize111>
+		<ItemCapacityPerSize121>2</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>2</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>2</ItemCapacityPerSize123>
+	</POCKET>
+	<POCKET>
+		<pIndex>79</pIndex>
+		<pName>M-LBE SMG Mag, 3x</pName>
+		<pSilhouette>49</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>6</pVolume>
+		<ItemCapacityPerSize56>6</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>6</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>6</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>6</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>12</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>12</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>12</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>6</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>6</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>6</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>3</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>3</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>3</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>3</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>3</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>3</ItemCapacityPerSize88>
+		<ItemCapacityPerSize111>9</ItemCapacityPerSize111>
+		<ItemCapacityPerSize121>3</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>3</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>3</ItemCapacityPerSize123>
+	</POCKET>
+	<POCKET>
+		<pIndex>80</pIndex>
+		<pName>M-LBE AR Mag, 1x</pName>
+		<pSilhouette>18</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>10</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>10</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>10</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>5</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>5</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>5</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>3</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>3</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>3</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>2</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>2</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>2</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>1</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>1</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>1</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>1</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>2</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>2</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>2</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>2</ItemCapacityPerSize99>
+		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>8</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>1</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>4</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>3</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>1</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>2</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>1</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>1</ItemCapacityPerSize131>
+		<ItemCapacityPerSize133>1</ItemCapacityPerSize133>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>81</pIndex>
+		<pName>M-LBE AR Mag, 2x</pName>
+		<pSilhouette>26</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>4</pVolume>
+		<ItemCapacityPerSize51>3</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>20</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>20</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>20</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>10</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>10</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>10</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>5</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>5</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>5</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>3</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>3</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>3</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>2</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>2</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>2</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>2</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>3</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>3</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>3</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>3</ItemCapacityPerSize99>
+		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>15</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>1</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>8</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>5</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>2</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>3</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>1</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>2</ItemCapacityPerSize131>
+		<ItemCapacityPerSize133>1</ItemCapacityPerSize133>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>82</pIndex>
+		<pName>M-LBE AR Mag, 3x</pName>
+		<pSilhouette>27</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>6</pVolume>
+		<ItemCapacityPerSize51>4</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>4</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>4</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>4</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>4</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>36</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>36</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>36</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>18</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>18</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>18</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>9</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>9</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>9</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>5</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>5</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>5</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>4</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>4</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>4</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>4</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>6</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>6</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>6</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>6</ItemCapacityPerSize99>
+		<ItemCapacityPerSize103>1</ItemCapacityPerSize103>
+		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>27</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>3</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>3</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>3</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>11</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>7</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>3</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>5</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>2</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>3</ItemCapacityPerSize131>
+		<ItemCapacityPerSize133>2</ItemCapacityPerSize133>
+		<ItemCapacityPerSize164>1</ItemCapacityPerSize164>
+		<ItemCapacityPerSize179>2</ItemCapacityPerSize179>
+		<ItemCapacityPerSize204>1</ItemCapacityPerSize204>
+	</POCKET>
+	<POCKET>
+		<pIndex>83</pIndex>
+		<pName>M-LBE AK Mag, 1x</pName>
+		<pSilhouette>40</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>10</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>10</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>10</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>5</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>5</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>5</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>3</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>3</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>3</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>1</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>1</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>1</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>1</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>1</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>1</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>1</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>2</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>2</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>2</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>2</ItemCapacityPerSize99>
+		<ItemCapacityPerSize111>8</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>1</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>5</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>3</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>1</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>2</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>1</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>1</ItemCapacityPerSize131>
+		<ItemCapacityPerSize133>1</ItemCapacityPerSize133>
+	</POCKET>
+	<POCKET>
+		<pIndex>84</pIndex>
+		<pName>M-LBE AK Mag, 2x</pName>
+		<pSilhouette>36</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>4</pVolume>
+		<ItemCapacityPerSize51>3</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>20</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>20</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>20</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>10</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>10</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>10</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>5</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>5</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>5</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>3</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>3</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>3</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>2</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>2</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>2</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>2</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>3</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>3</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>3</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>3</ItemCapacityPerSize99>
+		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
+		<ItemCapacityPerSize111>15</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>1</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>1</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>1</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>8</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>5</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>3</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>4</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>2</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>2</ItemCapacityPerSize131>
+		<ItemCapacityPerSize133>2</ItemCapacityPerSize133>
+		<ItemCapacityPerSize164>1</ItemCapacityPerSize164>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+		<ItemCapacityPerSize204>1</ItemCapacityPerSize204>
+	</POCKET>
+	<POCKET>
+		<pIndex>85</pIndex>
+		<pName>M-LBE BR Mag, 1x</pName>
+		<pSilhouette>39</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>14</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>14</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>14</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>7</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>7</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>7</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>4</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>4</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>4</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>2</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>2</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>2</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>1</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>1</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>1</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>1</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>2</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>2</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>2</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>2</ItemCapacityPerSize99>
+		<ItemCapacityPerSize111>11</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>2</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>2</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>2</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>5</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>3</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>2</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>3</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>2</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>2</ItemCapacityPerSize131>
+		<ItemCapacityPerSize132>2</ItemCapacityPerSize132>
+		<ItemCapacityPerSize133>1</ItemCapacityPerSize133>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>86</pIndex>
+		<pName>M-LBE BR Mag, 2x</pName>
+		<pSilhouette>39</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>4</pVolume>
+		<ItemCapacityPerSize51>4</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>6</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>6</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>6</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>6</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>28</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>28</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>28</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>14</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>14</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>14</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>8</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>8</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>8</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>4</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>4</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>4</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>2</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>2</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>2</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>2</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>4</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>4</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>4</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>4</ItemCapacityPerSize99>
+		<ItemCapacityPerSize111>22</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>4</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>4</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>4</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>10</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>6</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>4</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>6</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>4</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>4</ItemCapacityPerSize131>
+		<ItemCapacityPerSize132>4</ItemCapacityPerSize132>
+		<ItemCapacityPerSize133>2</ItemCapacityPerSize133>
+		<ItemCapacityPerSize179>2</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>87</pIndex>
+		<pName>M-LBE Sniper Mag, 1x</pName>
+		<pSilhouette>62</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize51>2</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>14</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>14</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>14</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>7</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>7</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>7</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>4</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>4</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>4</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>2</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>2</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>2</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>1</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>1</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>1</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>1</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>2</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>2</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>2</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>2</ItemCapacityPerSize99>
+		<ItemCapacityPerSize111>11</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>2</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>2</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>2</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>5</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>3</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>2</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>3</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>2</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>2</ItemCapacityPerSize131>
+		<ItemCapacityPerSize132>2</ItemCapacityPerSize132>
+		<ItemCapacityPerSize133>1</ItemCapacityPerSize133>
+		<ItemCapacityPerSize179>1</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>88</pIndex>
+		<pName>M-LBE Sniper Mag, 2x</pName>
+		<pSilhouette>62</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>1024</pRestriction>
+		<pVolume>4</pVolume>
+		<ItemCapacityPerSize51>4</ItemCapacityPerSize51>
+		<ItemCapacityPerSize56>6</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>6</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>6</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>6</ItemCapacityPerSize59>
+		<ItemCapacityPerSize71>28</ItemCapacityPerSize71>
+		<ItemCapacityPerSize72>28</ItemCapacityPerSize72>
+		<ItemCapacityPerSize73>28</ItemCapacityPerSize73>
+		<ItemCapacityPerSize76>14</ItemCapacityPerSize76>
+		<ItemCapacityPerSize77>14</ItemCapacityPerSize77>
+		<ItemCapacityPerSize78>14</ItemCapacityPerSize78>
+		<ItemCapacityPerSize81>8</ItemCapacityPerSize81>
+		<ItemCapacityPerSize82>8</ItemCapacityPerSize82>
+		<ItemCapacityPerSize83>8</ItemCapacityPerSize83>
+		<ItemCapacityPerSize86>4</ItemCapacityPerSize86>
+		<ItemCapacityPerSize87>4</ItemCapacityPerSize87>
+		<ItemCapacityPerSize88>4</ItemCapacityPerSize88>
+		<ItemCapacityPerSize91>2</ItemCapacityPerSize91>
+		<ItemCapacityPerSize92>2</ItemCapacityPerSize92>
+		<ItemCapacityPerSize93>2</ItemCapacityPerSize93>
+		<ItemCapacityPerSize94>2</ItemCapacityPerSize94>
+		<ItemCapacityPerSize96>4</ItemCapacityPerSize96>
+		<ItemCapacityPerSize97>4</ItemCapacityPerSize97>
+		<ItemCapacityPerSize98>4</ItemCapacityPerSize98>
+		<ItemCapacityPerSize99>4</ItemCapacityPerSize99>
+		<ItemCapacityPerSize111>22</ItemCapacityPerSize111>
+		<ItemCapacityPerSize116>4</ItemCapacityPerSize116>
+		<ItemCapacityPerSize117>4</ItemCapacityPerSize117>
+		<ItemCapacityPerSize118>4</ItemCapacityPerSize118>
+		<ItemCapacityPerSize121>10</ItemCapacityPerSize121>
+		<ItemCapacityPerSize122>6</ItemCapacityPerSize122>
+		<ItemCapacityPerSize123>4</ItemCapacityPerSize123>
+		<ItemCapacityPerSize126>6</ItemCapacityPerSize126>
+		<ItemCapacityPerSize127>4</ItemCapacityPerSize127>
+		<ItemCapacityPerSize131>4</ItemCapacityPerSize131>
+		<ItemCapacityPerSize132>4</ItemCapacityPerSize132>
+		<ItemCapacityPerSize133>2</ItemCapacityPerSize133>
+		<ItemCapacityPerSize179>2</ItemCapacityPerSize179>
+	</POCKET>
+	<POCKET>
+		<pIndex>89</pIndex>
+		<pName>M-LBE Grenade, 1x</pName>
+		<pSilhouette>15</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>256</pRestriction>
+		<pVolume>1</pVolume>
+		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
+		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
+	</POCKET>
+	<POCKET>
+		<pIndex>90</pIndex>
+		<pName>M-LBE Grenade, 2x</pName>
+		<pSilhouette>67</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>256</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
+		<ItemCapacityPerSize106>2</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>2</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>2</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
+	</POCKET>
+	<POCKET>
+		<pIndex>91</pIndex>
+		<pName>M-LBE Grenade, 3x</pName>
+		<pSilhouette>67</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>256</pRestriction>
+		<pVolume>3</pVolume>
+		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
+		<ItemCapacityPerSize106>3</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>3</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>3</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>3</ItemCapacityPerSize109>
+	</POCKET>
+	<POCKET>
+		<pIndex>92</pIndex>
+		<pName>M-LBE Cylinder - Small (40mm), 1x</pName>
+		<pSilhouette>64</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>256</pRestriction>
+		<pVolume>2</pVolume>
+		<ItemCapacityPerSize56>1</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>1</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>1</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>1</ItemCapacityPerSize59>
+		<ItemCapacityPerSize104>1</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>1</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>1</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>1</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>1</ItemCapacityPerSize109>
+	</POCKET>
+	<POCKET>
+		<pIndex>93</pIndex>
+		<pName>M-LBE Cylinder - Small (40mm), 2x</pName>
+		<pSilhouette>68</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>256</pRestriction>
+		<pVolume>4</pVolume>
+		<ItemCapacityPerSize56>2</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>2</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>2</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>2</ItemCapacityPerSize59>
+		<ItemCapacityPerSize104>2</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>2</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>2</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>2</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>2</ItemCapacityPerSize109>
+	</POCKET>
+	<POCKET>
+		<pIndex>94</pIndex>
+		<pName>M-LBE Cylinder - Small (40mm), 3x</pName>
+		<pSilhouette>68</pSilhouette>
+		<pType>1</pType>
+		<pRestriction>256</pRestriction>
+		<pVolume>6</pVolume>
+		<ItemCapacityPerSize56>3</ItemCapacityPerSize56>
+		<ItemCapacityPerSize57>3</ItemCapacityPerSize57>
+		<ItemCapacityPerSize58>3</ItemCapacityPerSize58>
+		<ItemCapacityPerSize59>3</ItemCapacityPerSize59>
+		<ItemCapacityPerSize104>3</ItemCapacityPerSize104>
+		<ItemCapacityPerSize106>3</ItemCapacityPerSize106>
+		<ItemCapacityPerSize107>3</ItemCapacityPerSize107>
+		<ItemCapacityPerSize108>3</ItemCapacityPerSize108>
+		<ItemCapacityPerSize109>3</ItemCapacityPerSize109>
 	</POCKET>
 </POCKETLIST>

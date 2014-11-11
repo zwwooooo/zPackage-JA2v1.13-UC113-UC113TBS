@@ -740,7 +740,7 @@
 		<szName>AD16 Walter Smirnoff</szName>
 		<dBuyModifier>1</dBuyModifier>
 		<dSellModifier>1</dSellModifier>
-		<ubShopKeeperID>73</ubShopKeeperID>
+		<ubShopKeeperID>255</ubShopKeeperID>
 		<ubTypeOfArmsDealer>1</ubTypeOfArmsDealer>
 		<iInitialCash>500</iInitialCash>
 		<uiFlags>536870912</uiFlags>
@@ -812,12 +812,12 @@
 		<dailyRetained>0</dailyRetained>
 		<minCoolness>1</minCoolness>
 		<maxCoolness>10</maxCoolness>
-		<addToCoolness>1</addToCoolness>
+		<addToCoolness>2</addToCoolness>
 		<coolnessProgressRate>10</coolnessProgressRate>
 		<daysDelayMin>2</daysDelayMin>
 		<daysDelayMax>3</daysDelayMax>
 		<useBRSetting>0</useBRSetting>
-		<allInventoryAlwaysAvailable>1</allInventoryAlwaysAvailable>
+		<allInventoryAlwaysAvailable>0</allInventoryAlwaysAvailable>
 	</MERCHANT>
 	<MERCHANT>
 		<uiIndex>39</uiIndex>

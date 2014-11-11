@@ -938,7 +938,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>17</uiIndex>
 		<name>Weapon Attachments</name>
-		<ubChoices>32</ubChoices>
+		<ubChoices>33</ubChoices>
 		<bItemNo1>207</bItemNo1>
 		<bItemNo2>208</bItemNo2>
 		<bItemNo3>209</bItemNo3>
@@ -971,7 +971,7 @@
 		<bItemNo30>950</bItemNo30>
 		<bItemNo31>948</bItemNo31>
 		<bItemNo32>921</bItemNo32>
-		<bItemNo33>0</bItemNo33>
+		<bItemNo33>1525</bItemNo33>
 		<bItemNo34>0</bItemNo34>
 		<bItemNo35>0</bItemNo35>
 		<bItemNo36>0</bItemNo36>
@@ -1103,7 +1103,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>20</uiIndex>
 		<name>LBE</name>
-		<ubChoices>19</ubChoices>
+		<ubChoices>20</ubChoices>
 		<bItemNo1>1079</bItemNo1>
 		<bItemNo2>1080</bItemNo2>
 		<bItemNo3>1081</bItemNo3>
@@ -1123,7 +1123,7 @@
 		<bItemNo17>1097</bItemNo17>
 		<bItemNo18>1098</bItemNo18>
 		<bItemNo19>1099</bItemNo19>
-		<bItemNo20>0</bItemNo20>
+		<bItemNo20>1697</bItemNo20>
 		<bItemNo21>0</bItemNo21>
 		<bItemNo22>0</bItemNo22>
 		<bItemNo23>0</bItemNo23>

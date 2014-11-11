@@ -134,7 +134,7 @@
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>12</uiSlotIndex>
-		<szSlotName>F3: Stock Upper</szSlotName>
+		<szSlotName>Modular Stocks</szSlotName>
 		<nasAttachmentClass>2</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<usDescPanelPosX>190</usDescPanelPosX>
@@ -553,7 +553,7 @@
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>50</uiSlotIndex>
 		<szSlotName>E2: Scope Add-on 4: RIS Scope</szSlotName>
-		<nasAttachmentClass>1610907728</nasAttachmentClass>
+		<nasAttachmentClass>32856</nasAttachmentClass>
 		<nasLayoutClass>16384</nasLayoutClass>
 		<usDescPanelPosX>154</usDescPanelPosX>
 		<usDescPanelPosY>36</usDescPanelPosY>
@@ -717,17 +717,61 @@
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>65</uiSlotIndex>
-		<szSlotName>M-LBE Vest 11 (Medium)</szSlotName>
-		<nasAttachmentClass>50331648</nasAttachmentClass>
+		<szSlotName>M-LBE Vest 1</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<nasLayoutClass>8388608</nasLayoutClass>
-		<usDescPanelPosX>192</usDescPanelPosX>
+		<usDescPanelPosX>10</usDescPanelPosX>
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
-		<fBigSlot>1</fBigSlot>
-		<ubPocketMapping>11</ubPocketMapping>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>1</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>66</uiSlotIndex>
+		<szSlotName>M-LBE Vest 2</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>8388608</nasLayoutClass>
+		<usDescPanelPosX>46</usDescPanelPosX>
+		<usDescPanelPosY>120</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>2</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>67</uiSlotIndex>
+		<szSlotName>M-LBE Vest 3</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>8388608</nasLayoutClass>
+		<usDescPanelPosX>82</usDescPanelPosX>
+		<usDescPanelPosY>120</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>3</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>68</uiSlotIndex>
+		<szSlotName>M-LBE Vest 4</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>8388608</nasLayoutClass>
+		<usDescPanelPosX>118</usDescPanelPosX>
+		<usDescPanelPosY>120</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>4</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>69</uiSlotIndex>
+		<szSlotName>M-LBE Vest 5</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>8388608</nasLayoutClass>
+		<usDescPanelPosX>154</usDescPanelPosX>
+		<usDescPanelPosY>120</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>5</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>70</uiSlotIndex>
 		<szSlotName>M-LBE Vest 6</szSlotName>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<nasLayoutClass>8388608</nasLayoutClass>
@@ -738,7 +782,7 @@
 		<ubPocketMapping>6</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>67</uiSlotIndex>
+		<uiSlotIndex>71</uiSlotIndex>
 		<szSlotName>M-LBE Vest 7</szSlotName>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<nasLayoutClass>8388608</nasLayoutClass>
@@ -749,7 +793,7 @@
 		<ubPocketMapping>7</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>68</uiSlotIndex>
+		<uiSlotIndex>72</uiSlotIndex>
 		<szSlotName>M-LBE Vest 8</szSlotName>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<nasLayoutClass>8388608</nasLayoutClass>
@@ -760,7 +804,7 @@
 		<ubPocketMapping>8</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>69</uiSlotIndex>
+		<uiSlotIndex>73</uiSlotIndex>
 		<szSlotName>M-LBE Vest 9</szSlotName>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<nasLayoutClass>8388608</nasLayoutClass>
@@ -771,7 +815,7 @@
 		<ubPocketMapping>9</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>70</uiSlotIndex>
+		<uiSlotIndex>74</uiSlotIndex>
 		<szSlotName>M-LBE Vest 10</szSlotName>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<nasLayoutClass>8388608</nasLayoutClass>
@@ -782,7 +826,18 @@
 		<ubPocketMapping>10</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>71</uiSlotIndex>
+		<uiSlotIndex>75</uiSlotIndex>
+		<szSlotName>M-LBE Vest 11 (Medium)</szSlotName>
+		<nasAttachmentClass>50331648</nasAttachmentClass>
+		<nasLayoutClass>8388608</nasLayoutClass>
+		<usDescPanelPosX>192</usDescPanelPosX>
+		<usDescPanelPosY>120</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>1</fBigSlot>
+		<ubPocketMapping>11</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>76</uiSlotIndex>
 		<szSlotName>M-LBE Vest 12 (Medium)</szSlotName>
 		<nasAttachmentClass>50331648</nasAttachmentClass>
 		<nasLayoutClass>8388608</nasLayoutClass>
@@ -793,7 +848,7 @@
 		<ubPocketMapping>12</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>72</uiSlotIndex>
+		<uiSlotIndex>77</uiSlotIndex>
 		<szSlotName>M-LBE Leg Rig/Combat Pack 1</szSlotName>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<nasLayoutClass>16777216</nasLayoutClass>
@@ -804,7 +859,7 @@
 		<ubPocketMapping>1</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>73</uiSlotIndex>
+		<uiSlotIndex>78</uiSlotIndex>
 		<szSlotName>M-LBE Leg Rig/Combat Pack 2</szSlotName>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<nasLayoutClass>16777216</nasLayoutClass>
@@ -815,7 +870,29 @@
 		<ubPocketMapping>2</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>74</uiSlotIndex>
+		<uiSlotIndex>79</uiSlotIndex>
+		<szSlotName>M-LBE Leg Rig/Combat Pack 3</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>16777216</nasLayoutClass>
+		<usDescPanelPosX>118</usDescPanelPosX>
+		<usDescPanelPosY>148</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>3</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>80</uiSlotIndex>
+		<szSlotName>M-LBE Leg Rig/Combat Pack 4</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>16777216</nasLayoutClass>
+		<usDescPanelPosX>154</usDescPanelPosX>
+		<usDescPanelPosY>148</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>4</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>81</uiSlotIndex>
 		<szSlotName>M-LBE Leg Rig/Combat Pack 5 (Medium)</szSlotName>
 		<nasAttachmentClass>50331648</nasAttachmentClass>
 		<nasLayoutClass>16777216</nasLayoutClass>
@@ -826,30 +903,118 @@
 		<ubPocketMapping>5</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>75</uiSlotIndex>
+		<uiSlotIndex>82</uiSlotIndex>
+		<szSlotName>M-LBE Backpack 1</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>33554432</nasLayoutClass>
+		<usDescPanelPosX>10</usDescPanelPosX>
+		<usDescPanelPosY>120</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>1</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>83</uiSlotIndex>
+		<szSlotName>M-LBE Backpack 2</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>33554432</nasLayoutClass>
+		<usDescPanelPosX>46</usDescPanelPosX>
+		<usDescPanelPosY>120</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>2</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>84</uiSlotIndex>
 		<szSlotName>M-LBE Backpack 3</szSlotName>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<nasLayoutClass>33554432</nasLayoutClass>
-		<usDescPanelPosX>118</usDescPanelPosX>
+		<usDescPanelPosX>82</usDescPanelPosX>
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
 		<ubPocketMapping>3</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>76</uiSlotIndex>
+		<uiSlotIndex>85</uiSlotIndex>
 		<szSlotName>M-LBE Backpack 4</szSlotName>
 		<nasAttachmentClass>16777216</nasAttachmentClass>
 		<nasLayoutClass>33554432</nasLayoutClass>
-		<usDescPanelPosX>154</usDescPanelPosX>
+		<usDescPanelPosX>118</usDescPanelPosX>
 		<usDescPanelPosY>120</usDescPanelPosY>
 		<fMultiShot>0</fMultiShot>
 		<fBigSlot>0</fBigSlot>
 		<ubPocketMapping>4</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>77</uiSlotIndex>
-		<szSlotName>M-LBE Backpack 11 (Medium)</szSlotName>
+		<uiSlotIndex>86</uiSlotIndex>
+		<szSlotName>M-LBE Backpack 5</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>33554432</nasLayoutClass>
+		<usDescPanelPosX>10</usDescPanelPosX>
+		<usDescPanelPosY>148</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>5</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>87</uiSlotIndex>
+		<szSlotName>M-LBE Backpack 6</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>33554432</nasLayoutClass>
+		<usDescPanelPosX>46</usDescPanelPosX>
+		<usDescPanelPosY>148</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>6</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>88</uiSlotIndex>
+		<szSlotName>M-LBE Backpack 7</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>33554432</nasLayoutClass>
+		<usDescPanelPosX>82</usDescPanelPosX>
+		<usDescPanelPosY>148</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>7</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>89</uiSlotIndex>
+		<szSlotName>M-LBE Backpack 8</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>33554432</nasLayoutClass>
+		<usDescPanelPosX>118</usDescPanelPosX>
+		<usDescPanelPosY>148</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>8</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>90</uiSlotIndex>
+		<szSlotName>M-LBE Backpack 9 (Large)</szSlotName>
+		<nasAttachmentClass>50331648</nasAttachmentClass>
+		<nasLayoutClass>33554432</nasLayoutClass>
+		<usDescPanelPosX>192</usDescPanelPosX>
+		<usDescPanelPosY>64</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>1</fBigSlot>
+		<ubPocketMapping>9</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>91</uiSlotIndex>
+		<szSlotName>M-LBE Backpack 10 (Large)</szSlotName>
+		<nasAttachmentClass>50331648</nasAttachmentClass>
+		<nasLayoutClass>33554432</nasLayoutClass>
+		<usDescPanelPosX>192</usDescPanelPosX>
+		<usDescPanelPosY>92</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>1</fBigSlot>
+		<ubPocketMapping>10</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>92</uiSlotIndex>
+		<szSlotName>M-LBE Backpack 11 (Large)</szSlotName>
 		<nasAttachmentClass>50331648</nasAttachmentClass>
 		<nasLayoutClass>33554432</nasLayoutClass>
 		<usDescPanelPosX>192</usDescPanelPosX>
@@ -859,30 +1024,8 @@
 		<ubPocketMapping>11</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>78</uiSlotIndex>
-		<szSlotName>M-LBE Backpack 7</szSlotName>
-		<nasAttachmentClass>16777216</nasAttachmentClass>
-		<nasLayoutClass>33554432</nasLayoutClass>
-		<usDescPanelPosX>118</usDescPanelPosX>
-		<usDescPanelPosY>148</usDescPanelPosY>
-		<fMultiShot>0</fMultiShot>
-		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>7</ubPocketMapping>
-	</ATTACHMENTSLOT>
-	<ATTACHMENTSLOT>
-		<uiSlotIndex>79</uiSlotIndex>
-		<szSlotName>M-LBE Backpack 8</szSlotName>
-		<nasAttachmentClass>16777216</nasAttachmentClass>
-		<nasLayoutClass>33554432</nasLayoutClass>
-		<usDescPanelPosX>154</usDescPanelPosX>
-		<usDescPanelPosY>148</usDescPanelPosY>
-		<fMultiShot>0</fMultiShot>
-		<fBigSlot>0</fBigSlot>
-		<ubPocketMapping>8</ubPocketMapping>
-	</ATTACHMENTSLOT>
-	<ATTACHMENTSLOT>
-		<uiSlotIndex>80</uiSlotIndex>
-		<szSlotName>M-LBE Backpack 12 (Medium)</szSlotName>
+		<uiSlotIndex>93</uiSlotIndex>
+		<szSlotName>M-LBE Backpack 12 (Large)</szSlotName>
 		<nasAttachmentClass>50331648</nasAttachmentClass>
 		<nasLayoutClass>33554432</nasLayoutClass>
 		<usDescPanelPosX>192</usDescPanelPosX>
@@ -892,7 +1035,7 @@
 		<ubPocketMapping>12</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>81</uiSlotIndex>
+		<uiSlotIndex>94</uiSlotIndex>
 		<szSlotName>Trigger Groups (Standard)</szSlotName>
 		<nasAttachmentClass>67108864</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -903,7 +1046,7 @@
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>82</uiSlotIndex>
+		<uiSlotIndex>95</uiSlotIndex>
 		<szSlotName>D5: Bullpup Trigger Groups</szSlotName>
 		<nasAttachmentClass>67108864</nasAttachmentClass>
 		<nasLayoutClass>16</nasLayoutClass>
@@ -914,7 +1057,7 @@
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>83</uiSlotIndex>
+		<uiSlotIndex>96</uiSlotIndex>
 		<szSlotName>Battery</szSlotName>
 		<nasAttachmentClass>8192</nasAttachmentClass>
 		<nasLayoutClass>67108864</nasLayoutClass>
@@ -925,7 +1068,7 @@
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>84</uiSlotIndex>
+		<uiSlotIndex>97</uiSlotIndex>
 		<szSlotName>Bayonet</szSlotName>
 		<nasAttachmentClass>268435456</nasAttachmentClass>
 		<nasLayoutClass>536870912</nasLayoutClass>
@@ -936,7 +1079,7 @@
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>85</uiSlotIndex>
+		<uiSlotIndex>98</uiSlotIndex>
 		<szSlotName>SAR-21: LAM</szSlotName>
 		<nasAttachmentClass>512</nasAttachmentClass>
 		<nasLayoutClass>134217728</nasLayoutClass>
@@ -947,7 +1090,7 @@
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>86</uiSlotIndex>
+		<uiSlotIndex>99</uiSlotIndex>
 		<szSlotName>SAR-21A: Underbarrel RIS</szSlotName>
 		<nasAttachmentClass>537530368</nasAttachmentClass>
 		<nasLayoutClass>268435456</nasLayoutClass>
@@ -958,7 +1101,7 @@
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>87</uiSlotIndex>
+		<uiSlotIndex>100</uiSlotIndex>
 		<szSlotName>SAR-21A: Forward Top RIS</szSlotName>
 		<nasAttachmentClass>537001984</nasAttachmentClass>
 		<nasLayoutClass>268435456</nasLayoutClass>
@@ -969,7 +1112,7 @@
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>88</uiSlotIndex>
+		<uiSlotIndex>101</uiSlotIndex>
 		<szSlotName>Hidden Slot - Show only Scope Rings</szSlotName>
 		<nasAttachmentClass>8</nasAttachmentClass>
 		<nasLayoutClass>2048</nasLayoutClass>
@@ -980,7 +1123,7 @@
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>89</uiSlotIndex>
+		<uiSlotIndex>102</uiSlotIndex>
 		<szSlotName>A6: Common Add-on Weapon</szSlotName>
 		<nasAttachmentClass>2415919104</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -991,7 +1134,7 @@
 		<ubPocketMapping>0</ubPocketMapping>
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
-		<uiSlotIndex>90</uiSlotIndex>
+		<uiSlotIndex>103</uiSlotIndex>
 		<szSlotName>C5: Integral Grip/Bipod</szSlotName>
 		<nasAttachmentClass>3145728</nasAttachmentClass>
 		<nasLayoutClass>1073741824</nasLayoutClass>

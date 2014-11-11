@@ -884,4 +884,12 @@
 		<launchableIndex>1164</launchableIndex>
 		<itemIndex>5167</itemIndex>
 	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>1700</launchableIndex>
+		<itemIndex>41</itemIndex>
+	</LAUNCHABLE>
+	<LAUNCHABLE>
+		<launchableIndex>1700</launchableIndex>
+		<itemIndex>1021</itemIndex>
+	</LAUNCHABLE>
 </LAUNCHABLELIST>

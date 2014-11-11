@@ -4,7 +4,7 @@
 		<uiIndex>0</uiIndex>
 		<name>0%</name>
 		<ubChoices>6</ubChoices>
-		<bItemNo1>4707</bItemNo1>
+		<bItemNo1>5</bItemNo1>
 		<bItemNo2>4031</bItemNo2>
 		<bItemNo3>4321</bItemNo3>
 		<bItemNo4>4846</bItemNo4>
@@ -59,8 +59,8 @@
 		<uiIndex>1</uiIndex>
 		<name>10%</name>
 		<ubChoices>6</ubChoices>
-		<bItemNo1>5036</bItemNo1>
-		<bItemNo2>4975</bItemNo2>
+		<bItemNo1>3</bItemNo1>
+		<bItemNo2>7</bItemNo2>
 		<bItemNo3>4032</bItemNo3>
 		<bItemNo4>4171</bItemNo4>
 		<bItemNo5>4951</bItemNo5>
@@ -114,10 +114,10 @@
 		<uiIndex>2</uiIndex>
 		<name>20%</name>
 		<ubChoices>12</ubChoices>
-		<bItemNo1>4949</bItemNo1>
+		<bItemNo1>8</bItemNo1>
 		<bItemNo2>4950</bItemNo2>
-		<bItemNo3>4837</bItemNo3>
-		<bItemNo4>4891</bItemNo4>
+		<bItemNo3>13</bItemNo3>
+		<bItemNo4>31</bItemNo4>
 		<bItemNo5>4179</bItemNo5>
 		<bItemNo6>4739</bItemNo6>
 		<bItemNo7>4813</bItemNo7>
@@ -169,11 +169,11 @@
 		<uiIndex>3</uiIndex>
 		<name>30%</name>
 		<ubChoices>15</ubChoices>
-		<bItemNo1>4033</bItemNo1>
+		<bItemNo1>10</bItemNo1>
 		<bItemNo2>4034</bItemNo2>
-		<bItemNo3>4039</bItemNo3>
-		<bItemNo4>4709</bItemNo4>
-		<bItemNo5>4815</bItemNo5>
+		<bItemNo3>9</bItemNo3>
+		<bItemNo4>2</bItemNo4>
+		<bItemNo5>12</bItemNo5>
 		<bItemNo6>4055</bItemNo6>
 		<bItemNo7>4051</bItemNo7>
 		<bItemNo8>4174</bItemNo8>
@@ -224,11 +224,11 @@
 		<uiIndex>4</uiIndex>
 		<name>40%</name>
 		<ubChoices>12</ubChoices>
-		<bItemNo1>4041</bItemNo1>
-		<bItemNo2>4264</bItemNo2>
-		<bItemNo3>4061</bItemNo3>
-		<bItemNo4>4901</bItemNo4>
-		<bItemNo5>4751</bItemNo5>
+		<bItemNo1>16</bItemNo1>
+		<bItemNo2>20</bItemNo2>
+		<bItemNo3>14</bItemNo3>
+		<bItemNo4>32</bItemNo4>
+		<bItemNo5>4</bItemNo5>
 		<bItemNo6>4740</bItemNo6>
 		<bItemNo7>4749</bItemNo7>
 		<bItemNo8>4769</bItemNo8>
@@ -279,10 +279,10 @@
 		<uiIndex>5</uiIndex>
 		<name>50%</name>
 		<ubChoices>14</ubChoices>
-		<bItemNo1>4046</bItemNo1>
-		<bItemNo2>4077</bItemNo2>
-		<bItemNo3>4328</bItemNo3>
-		<bItemNo4>4750</bItemNo4>
+		<bItemNo1>26</bItemNo1>
+		<bItemNo2>24</bItemNo2>
+		<bItemNo3>18</bItemNo3>
+		<bItemNo4>66</bItemNo4>
 		<bItemNo5>4047</bItemNo5>
 		<bItemNo6>4132</bItemNo6>
 		<bItemNo7>4741</bItemNo7>
@@ -334,9 +334,9 @@
 		<uiIndex>6</uiIndex>
 		<name>60%</name>
 		<ubChoices>10</ubChoices>
-		<bItemNo1>4056</bItemNo1>
-		<bItemNo2>4317</bItemNo2>
-		<bItemNo3>4871</bItemNo3>
+		<bItemNo1>25</bItemNo1>
+		<bItemNo2>21</bItemNo2>
+		<bItemNo3>35</bItemNo3>
 		<bItemNo4>4019</bItemNo4>
 		<bItemNo5>4057</bItemNo5>
 		<bItemNo6>4329</bItemNo6>
@@ -389,7 +389,7 @@
 		<uiIndex>7</uiIndex>
 		<name>70%</name>
 		<ubChoices>8</ubChoices>
-		<bItemNo1>4037</bItemNo1>
+		<bItemNo1>27</bItemNo1>
 		<bItemNo2>4684</bItemNo2>
 		<bItemNo3>4035</bItemNo3>
 		<bItemNo4>4065</bItemNo4>
@@ -444,9 +444,9 @@
 		<uiIndex>8</uiIndex>
 		<name>80%</name>
 		<ubChoices>11</ubChoices>
-		<bItemNo1>4081</bItemNo1>
-		<bItemNo2>4167</bItemNo2>
-		<bItemNo3>4875</bItemNo3>
+		<bItemNo1>28</bItemNo1>
+		<bItemNo2>23</bItemNo2>
+		<bItemNo3>34</bItemNo3>
 		<bItemNo4>4021</bItemNo4>
 		<bItemNo5>4069</bItemNo5>
 		<bItemNo6>4163</bItemNo6>
@@ -499,8 +499,8 @@
 		<uiIndex>9</uiIndex>
 		<name>90%</name>
 		<ubChoices>6</ubChoices>
-		<bItemNo1>4810</bItemNo1>
-		<bItemNo2>4662</bItemNo2>
+		<bItemNo1>36</bItemNo1>
+		<bItemNo2>33</bItemNo2>
 		<bItemNo3>4089</bItemNo3>
 		<bItemNo4>4811</bItemNo4>
 		<bItemNo5>4969</bItemNo5>
@@ -554,8 +554,8 @@
 		<uiIndex>10</uiIndex>
 		<name>100%</name>
 		<ubChoices>10</ubChoices>
-		<bItemNo1>4040</bItemNo1>
-		<bItemNo2>4142</bItemNo2>
+		<bItemNo1>15</bItemNo1>
+		<bItemNo2>30</bItemNo2>
 		<bItemNo3>4168</bItemNo3>
 		<bItemNo4>4093</bItemNo4>
 		<bItemNo5>4096</bItemNo5>

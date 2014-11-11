@@ -8,6 +8,7 @@
     <szDetailedExploredName>Tropical</szDetailedExploredName>
     <sWaterType>2</sWaterType>
     <usNaturalDirt>300</usNaturalDirt>
+    <usCivilianPopulation>2</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>A2</SectorGrid>
@@ -17,6 +18,7 @@
     <szDetailedExploredName>Chitzena</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>250</usNaturalDirt>
+    <usCivilianPopulation>70</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>A3</SectorGrid>
@@ -81,6 +83,7 @@
     <sWaterType>0</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <usCivilianPopulation>4</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>A10</SectorGrid>
@@ -91,6 +94,7 @@
     <sWaterType>0</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <usCivilianPopulation>30</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>A11</SectorGrid>
@@ -100,6 +104,7 @@
     <szDetailedExploredName>Farmland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
+    <usCivilianPopulation>4</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>A12</SectorGrid>
@@ -164,6 +169,7 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>250</usNaturalDirt>
     <usPrisonRoomNumber00>3</usPrisonRoomNumber00>
+    <usCivilianPopulation>150</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B3</SectorGrid>
@@ -191,6 +197,7 @@
     <szDetailedExploredName>Farmland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B6</SectorGrid>
@@ -200,6 +207,7 @@
     <szDetailedExploredName>Farmland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B7</SectorGrid>
@@ -218,6 +226,7 @@
     <szDetailedExploredName>Farmland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B9</SectorGrid>
@@ -254,6 +263,7 @@
     <szDetailedExploredName>Farm, road</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>210</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B13</SectorGrid>
@@ -263,6 +273,8 @@
     <szDetailedExploredName>Drassen Airport</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <sRadioScanModifier>2</sRadioScanModifier>
+    <usCivilianPopulation>50</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B14</SectorGrid>
@@ -272,6 +284,7 @@
     <szDetailedExploredName>Water</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>120</usNaturalDirt>
+    <usCivilianPopulation>6</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>B15</SectorGrid>
@@ -335,6 +348,7 @@
     <szDetailedExploredName>San Mona</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>200</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>C6</SectorGrid>
@@ -344,6 +358,7 @@
     <szDetailedExploredName>San Mona</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>150</usCivilianPopulation>
   </SECTOR>
   <SECTOR>
     <SectorGrid>C7</SectorGrid>
@@ -407,6 +422,7 @@
     <szDetailedExploredName>Drassen</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>C14</SectorGrid>
@@ -453,6 +469,7 @@
     <sWaterType>2</sWaterType>
     <usNaturalDirt>300</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <sRadioScanModifier>2</sRadioScanModifier>
    </SECTOR>
    <SECTOR>
     <SectorGrid>D3</SectorGrid>
@@ -483,6 +500,7 @@
     <usPrisonRoomNumber00>8</usPrisonRoomNumber00>
     <usPrisonRoomNumber01>9</usPrisonRoomNumber01>
     <usPrisonRoomNumber02>10</usPrisonRoomNumber02>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>D6</SectorGrid>
@@ -492,6 +510,7 @@
     <szDetailedExploredName>Farmland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>180</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>D7</SectorGrid>
@@ -555,6 +574,7 @@
     <szDetailedExploredName>Drassen Mine</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>D14</SectorGrid>
@@ -574,6 +594,7 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <sRadioScanModifier>2</sRadioScanModifier>
    </SECTOR>  
    <SECTOR>
     <SectorGrid>D16</SectorGrid>
@@ -655,6 +676,7 @@
     <szDetailedExploredName>Farmland</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>160</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>E9</SectorGrid>
@@ -664,6 +686,7 @@
     <szDetailedExploredName>Farm, road</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>E10</SectorGrid>
@@ -799,6 +822,7 @@
     <szDetailedExploredName>Cambria, Hospital</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>F9</SectorGrid>
@@ -809,6 +833,7 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>1</usCurfewValue>
+    <usCivilianPopulation>100</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>F10</SectorGrid>
@@ -818,6 +843,7 @@
     <szDetailedExploredName>Farmland</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
+    <usCivilianPopulation>50</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>F11</SectorGrid>
@@ -881,6 +907,7 @@
     <szDetailedExploredName>Grumm</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>G2</SectorGrid>
@@ -891,6 +918,7 @@
     <sWaterType>3</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <usCivilianPopulation>150</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>G3</SectorGrid>
@@ -936,6 +964,7 @@
     <szDetailedExploredName>Farm, road</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>175</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>G8</SectorGrid>
@@ -945,6 +974,7 @@
     <szDetailedExploredName>Cambria</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>G9</SectorGrid>
@@ -958,6 +988,7 @@
     <usPrisonRoomNumber01>42</usPrisonRoomNumber01>
     <usPrisonRoomNumber02>44</usPrisonRoomNumber02>
     <usPrisonRoomNumber03>45</usPrisonRoomNumber03>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>G10</SectorGrid>
@@ -1030,6 +1061,7 @@
     <szDetailedExploredName>Grumm</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>H2</SectorGrid>
@@ -1040,6 +1072,7 @@
     <sWaterType>3</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>1</usCurfewValue>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>H3</SectorGrid>
@@ -1050,6 +1083,7 @@
     <sWaterType>3</sWaterType>
     <usNaturalDirt>150</usNaturalDirt>
     <usCurfewValue>1</usCurfewValue>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>H4</SectorGrid>
@@ -1059,6 +1093,7 @@
     <szDetailedExploredName>Forest</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>H5</SectorGrid>
@@ -1096,6 +1131,7 @@
     <sWaterType>0</sWaterType>
     <usNaturalDirt>130</usNaturalDirt>
     <usCurfewValue>1</usCurfewValue>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>H9</SectorGrid>
@@ -1142,6 +1178,8 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <sRadioScanModifier>1</sRadioScanModifier>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>H14</SectorGrid>
@@ -1152,6 +1190,7 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <usCivilianPopulation>100</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>H15</SectorGrid>
@@ -1224,6 +1263,7 @@
     <szDetailedExploredName>Estoni</szDetailedExploredName>
     <sWaterType>3</sWaterType>
     <usNaturalDirt>135</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>I7</SectorGrid>
@@ -1243,6 +1283,7 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>850</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <sRadioScanModifier>2</sRadioScanModifier>
    </SECTOR>
    <SECTOR>
     <SectorGrid>I9</SectorGrid>
@@ -1303,6 +1344,7 @@
     <usPrisonRoomNumber11>49</usPrisonRoomNumber11>
     <usPrisonRoomNumber12>50</usPrisonRoomNumber12>
     <usPrisonRoomNumber13>51</usPrisonRoomNumber13>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
     <SECTOR>
     <SectorGrid>I14</SectorGrid>
@@ -1312,6 +1354,7 @@
     <szDetailedExploredName>Alma Mine</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>200</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>I15</SectorGrid>
@@ -1407,10 +1450,12 @@
     <SectorGrid>J9</SectorGrid>
     <szUnexploredName>Desert</szUnexploredName>
     <szDetailedUnexploredName>Desert</szDetailedUnexploredName>
-    <szExploredName>Desert</szExploredName>
-    <szDetailedExploredName>Desert</szDetailedExploredName>
+    <szExploredName>Tixa</szExploredName>
+    <szDetailedExploredName>Tixa</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>1000</usNaturalDirt>
+    <usCurfewValue>2</usCurfewValue>
+    <sRadioScanModifier>1</sRadioScanModifier>
     <usPrisonRoomNumber00>5</usPrisonRoomNumber00>
     <usPrisonRoomNumber01>6</usPrisonRoomNumber01>
     <usPrisonRoomNumber02>7</usPrisonRoomNumber02>
@@ -1427,6 +1472,7 @@
     <usPrisonRoomNumber13>18</usPrisonRoomNumber13>
     <usPrisonRoomNumber14>19</usPrisonRoomNumber14>
     <usPrisonRoomNumber15>20</usPrisonRoomNumber15>
+    <usCivilianPopulation>100</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>J10</SectorGrid>
@@ -1472,6 +1518,7 @@
     <szDetailedExploredName>Farm, road</szDetailedExploredName>
     <sWaterType>0</sWaterType>
     <usNaturalDirt>175</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>J15</SectorGrid>
@@ -1725,6 +1772,7 @@
     <szDetailedExploredName>Woods</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>200</usNaturalDirt>
+    <usCivilianPopulation>10</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>L11</SectorGrid>
@@ -1734,6 +1782,7 @@
     <szDetailedExploredName>Balime</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>150</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>L12</SectorGrid>
@@ -1743,6 +1792,7 @@
     <szDetailedExploredName>Balime</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
+    <usCivilianPopulation>150</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>L13</SectorGrid>
@@ -1818,6 +1868,7 @@
     <sWaterType>0</sWaterType>
     <usNaturalDirt>175</usNaturalDirt>
     <usCurfewValue>1</usCurfewValue>
+    <usCivilianPopulation>10</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>M5</SectorGrid>
@@ -1956,6 +2007,8 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>1</usCurfewValue>
+    <sRadioScanModifier>2</sRadioScanModifier>
+    <usCivilianPopulation>100</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>N4</SectorGrid>
@@ -1966,6 +2019,8 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <sRadioScanModifier>2</sRadioScanModifier>
+    <usCivilianPopulation>50</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>N5</SectorGrid>
@@ -1976,6 +2031,7 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <usCivilianPopulation>100</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>N6</SectorGrid>
@@ -1995,6 +2051,7 @@
     <szDetailedExploredName>Coastal, road</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>140</usNaturalDirt>
+    <sRadioScanModifier>1</sRadioScanModifier>
     <usPrisonRoomNumber00>3</usPrisonRoomNumber00>
    </SECTOR>
    <SECTOR>
@@ -2105,6 +2162,7 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <usCivilianPopulation>100</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>O4</SectorGrid>
@@ -2115,6 +2173,7 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>1</usCurfewValue>
+    <usCivilianPopulation>300</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>O5</SectorGrid>
@@ -2251,6 +2310,7 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>100</usNaturalDirt>
     <usCurfewValue>2</usCurfewValue>
+    <usCivilianPopulation>50</usCivilianPopulation>
    </SECTOR>
    <SECTOR>
     <SectorGrid>P4</SectorGrid>

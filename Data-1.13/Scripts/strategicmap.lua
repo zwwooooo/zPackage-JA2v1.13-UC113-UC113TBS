@@ -79,16 +79,6 @@ Facts = {
 	FACT_ALL_TERRORISTS_KILLED   =      156,
 }
 
-local KINGPIN_MONEY_SECTOR_X	= 5
-local KINGPIN_MONEY_SECTOR_Y	= 4 -- MAP_ROW_D
-local KINGPIN_MONEY_SECTOR_Z	= 1	
-
-local HOSPITAL_SECTOR_X	= 8
-local HOSPITAL_SECTOR_Y	= 6 -- MAP_ROW_F
-local HOSPITAL_SECTOR_Z	= 0	
-
-local NOBODY = 254
-
 History = {
 	HISTORY_ENTERED_HISTORY_MODE = 0,
 	HISTORY_HIRED_MERC_FROM_AIM = 1,
@@ -193,9 +183,7 @@ function HandleQuestCodeOnSectorEntry( sNewSectorX, sNewSectorY, bNewSectorZ )
 	end
 
 	if ( sNewSectorX == 5 and sNewSectorY == SectorY.MAP_ROW_D ) then
-		gubBoxerID( 0, NOBODY )
-		gubBoxerID( 1, NOBODY ) 
-		gubBoxerID( 2, NOBODY )
+		ResetBoxers()
 	end
 
 	if ( sNewSectorX == 3 and sNewSectorY == SectorY.MAP_ROW_P ) then
@@ -226,7 +214,7 @@ end
 
 function HandleQuestCodeOnSectorExit( sOldSectorX, sOldSectorY, bOldSectorZ )
 
-	if ( sOldSectorX == KINGPIN_MONEY_SECTOR_X and sOldSectorY == KINGPIN_MONEY_SECTOR_Y and bOldSectorZ == KINGPIN_MONEY_SECTOR_Z ) then
+	if ( sOldSectorX == iniKINGPIN_MONEY_SECTOR_X and sOldSectorY == iniKINGPIN_MONEY_SECTOR_Y and bOldSectorZ == iniKINGPIN_MONEY_SECTOR_Z ) then
 		CheckForKingpinsMoneyMissing( true )
 	end
 
@@ -236,7 +224,7 @@ function HandleQuestCodeOnSectorExit( sOldSectorX, sOldSectorY, bOldSectorZ )
 		SetCharacterSectorY(Profil.CONRAD, 0)
 	end
 
-	if ( sOldSectorX == HOSPITAL_SECTOR_X and sOldSectorY == HOSPITAL_SECTOR_Y and bOldSectorZ == HOSPITAL_SECTOR_Z ) then
+	if ( sOldSectorX == iniHOSPITAL_SECTOR_X and sOldSectorY == iniHOSPITAL_SECTOR_Y and bOldSectorZ == iniHOSPITAL_SECTOR_Z ) then
 		CheckForMissingHospitalSupplies()
 	end
 

@@ -417,22 +417,22 @@ function InitNPCs()
 		i = math.random(1, 4)
 		if i == 1 then
 			--H7
-			AddAltSectorNew( 7, SectorY.MAP_ROW_H )
+			AddAltSectorNew( iniADD_MADLAB_SECTOR_1_X, iniADD_MADLAB_SECTOR_1_Y )
 		elseif i == 2 then
 			--H16
-			AddAltSectorNew( 16, SectorY.MAP_ROW_H )
+			AddAltSectorNew( iniADD_MADLAB_SECTOR_2_X, iniADD_MADLAB_SECTOR_2_Y )
 		elseif i == 3 then	
 			--I11
-			AddAltSectorNew( 11, SectorY.MAP_ROW_I )
+			AddAltSectorNew( iniADD_MADLAB_SECTOR_3_X, iniADD_MADLAB_SECTOR_3_Y )
 		elseif i == 4 then
 			--E4
-			AddAltSectorNew( 4, SectorY.MAP_ROW_E )
+			AddAltSectorNew( iniADD_MADLAB_SECTOR_4_X, iniADD_MADLAB_SECTOR_4_Y )
 		end
 	end
 	
 	if is_networked == 1 then
 		--H7
-		AddAltSectorNew( 7, SectorY.MAP_ROW_H )
+		AddAltSectorNew( iniADD_MADLAB_SECTOR_1_X, iniADD_MADLAB_SECTOR_1_Y )
 	end
 
 	-- Add Micky in random location
@@ -516,6 +516,11 @@ function InitNewGame()
 		end
 	end
 		
+	-- Get starting cash from DifficultySettings.xml
+	SetStartingCashDifLevel(newDIFFICULTY_LEVEL)
+	
+	--	Get starting cash from JA2Options.ini
+	--[[	
 	if ( newDIFFICULTY_LEVEL == DIF_LEVEL_EASY ) then
 		iStartingCash = GetStartingCashNovice()
 	elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_MEDIUM ) then
@@ -525,6 +530,6 @@ function InitNewGame()
 	elseif ( newDIFFICULTY_LEVEL == DIF_LEVEL_INSANE ) then
 		iStartingCash = GetStartingCashInsane()
 	end
-	
 	AddTransactionToPlayersBook( Fincances.ANONYMOUS_DEPOSIT, 0, GetWorldTotalMin(), iStartingCash )
+	]]
 end

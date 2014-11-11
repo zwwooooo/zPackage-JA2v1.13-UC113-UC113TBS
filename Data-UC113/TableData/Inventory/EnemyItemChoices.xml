@@ -339,9 +339,9 @@
 		<bItemNo3>243</bItemNo3>
 		<bItemNo4>245</bItemNo4>
 		<bItemNo5>256</bItemNo5>
-		<bItemNo6>378</bItemNo6>
+		<bItemNo6>316</bItemNo6>
 		<bItemNo7>323</bItemNo7>
-		<bItemNo8>382</bItemNo8>
+		<bItemNo8>320</bItemNo8>
 		<bItemNo9>235</bItemNo9>
 		<bItemNo10>222</bItemNo10>
 		<bItemNo11>257</bItemNo11>
@@ -612,9 +612,9 @@
 		<bItemNo1>874</bItemNo1>
 		<bItemNo2>875</bItemNo2>
 		<bItemNo3>183</bItemNo3>
-		<bItemNo4>893</bItemNo4>
-		<bItemNo5>894</bItemNo5>
-		<bItemNo6>895</bItemNo6>
+		<bItemNo4>0</bItemNo4>
+		<bItemNo5>0</bItemNo5>
+		<bItemNo6>0</bItemNo6>
 		<bItemNo7>0</bItemNo7>
 		<bItemNo8>0</bItemNo8>
 		<bItemNo9>0</bItemNo9>
@@ -1103,7 +1103,7 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>20</uiIndex>
 		<name>LBE</name>
-		<ubChoices>20</ubChoices>
+		<ubChoices>21</ubChoices>
 		<bItemNo1>166</bItemNo1>
 		<bItemNo2>162</bItemNo2>
 		<bItemNo3>170</bItemNo3>
@@ -1124,7 +1124,7 @@
 		<bItemNo18>778</bItemNo18>
 		<bItemNo19>779</bItemNo19>
 		<bItemNo20>784</bItemNo20>
-		<bItemNo21>0</bItemNo21>
+		<bItemNo21>1697</bItemNo21>
 		<bItemNo22>0</bItemNo22>
 		<bItemNo23>0</bItemNo23>
 		<bItemNo24>0</bItemNo24>

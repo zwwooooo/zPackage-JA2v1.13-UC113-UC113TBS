@@ -20,7 +20,7 @@
 -->
 <ExtraItems>
    <Item>		<!-- Stechkin APS -->
-      <uiIndex>4975</uiIndex>
+      <uiIndex>7</uiIndex>
       <quantity>1</quantity>
       <condition>75</condition>
       <gridno>9652</gridno>

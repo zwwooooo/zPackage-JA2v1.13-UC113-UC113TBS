@@ -166,7 +166,7 @@
 		<ubFragRange>0</ubFragRange>
 		<ubHorizontalDegree>0</ubHorizontalDegree>
 		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
+		<bIndoorModifier>50</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>8</uiIndex>
@@ -318,8 +318,8 @@
 	<EXPLOSIVE>
 		<uiIndex>15</uiIndex>
 		<ubType>0</ubType>
-		<ubDamage>5</ubDamage>
-		<ubStunDamage>5</ubStunDamage>
+		<ubDamage>15</ubDamage>
+		<ubStunDamage>7</ubStunDamage>
 		<ubRadius>3</ubRadius>
 		<ubVolume>15</ubVolume>
 		<ubVolatility>1</ubVolatility>
@@ -1237,7 +1237,7 @@
 		<ubFragRange>0</ubFragRange>
 		<ubHorizontalDegree>0</ubHorizontalDegree>
 		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
+		<bIndoorModifier>50</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>59</uiIndex>
@@ -1657,7 +1657,7 @@
 		<ubFragRange>0</ubFragRange>
 		<ubHorizontalDegree>0</ubHorizontalDegree>
 		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
+		<bIndoorModifier>50</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>79</uiIndex>
@@ -1741,7 +1741,7 @@
 		<ubFragRange>0</ubFragRange>
 		<ubHorizontalDegree>0</ubHorizontalDegree>
 		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
+		<bIndoorModifier>25</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>83</uiIndex>
@@ -1888,7 +1888,7 @@
 		<ubFragRange>0</ubFragRange>
 		<ubHorizontalDegree>0</ubHorizontalDegree>
 		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
+		<bIndoorModifier>25</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>90</uiIndex>
@@ -1909,7 +1909,7 @@
 		<ubFragRange>0</ubFragRange>
 		<ubHorizontalDegree>0</ubHorizontalDegree>
 		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
+		<bIndoorModifier>25</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>91</uiIndex>
@@ -2399,21 +2399,21 @@
 		<ubType>8</ubType>
 		<ubDamage>40</ubDamage>
 		<ubStunDamage>20</ubStunDamage>
-		<ubRadius>10</ubRadius>
+		<ubRadius>5</ubRadius>
 		<ubVolume>25</ubVolume>
 		<ubVolatility>2</ubVolatility>
 		<ubAnimationID>9</ubAnimationID>
-		<ubDuration>5</ubDuration>
-		<ubStartRadius>5</ubStartRadius>
+		<ubDuration>2</ubDuration>
+		<ubStartRadius>2</ubStartRadius>
 		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>1</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
+		<usNumFragments>150</usNumFragments>
+		<ubFragType>67</ubFragType>
+		<ubFragDamage>15</ubFragDamage>
+		<ubFragRange>150</ubFragRange>
 		<ubHorizontalDegree>0</ubHorizontalDegree>
 		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
+		<bIndoorModifier>2</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>115</uiIndex>
@@ -2480,6 +2480,216 @@
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>118</uiIndex>
+		<ubType>6</ubType>
+		<ubDamage>2</ubDamage>
+		<ubStunDamage>5</ubStunDamage>
+		<ubRadius>2</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>7</ubAnimationID>
+		<ubDuration>6</ubDuration>
+		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>119</uiIndex>
+		<ubType>4</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>10</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>5</ubDuration>
+		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>120</uiIndex>
+		<ubType>6</ubType>
+		<ubDamage>2</ubDamage>
+		<ubStunDamage>5</ubStunDamage>
+		<ubRadius>2</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>7</ubAnimationID>
+		<ubDuration>5</ubDuration>
+		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>121</uiIndex>
+		<ubType>4</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>10</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>4</ubDuration>
+		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>122</uiIndex>
+		<ubType>6</ubType>
+		<ubDamage>2</ubDamage>
+		<ubStunDamage>5</ubStunDamage>
+		<ubRadius>2</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>7</ubAnimationID>
+		<ubDuration>3</ubDuration>
+		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>123</uiIndex>
+		<ubType>4</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>6</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>2</ubDuration>
+		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>124</uiIndex>
+		<ubType>6</ubType>
+		<ubDamage>2</ubDamage>
+		<ubStunDamage>5</ubStunDamage>
+		<ubRadius>8</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>7</ubAnimationID>
+		<ubDuration>5</ubDuration>
+		<ubStartRadius>5</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>125</uiIndex>
+		<ubType>4</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>12</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>2</ubDuration>
+		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>126</uiIndex>
+		<ubType>6</ubType>
+		<ubDamage>2</ubDamage>
+		<ubStunDamage>5</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>7</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>125</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>5</ubFragDamage>
+		<ubFragRange>100</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>127</uiIndex>
+		<ubType>6</ubType>
+		<ubDamage>5</ubDamage>
+		<ubStunDamage>5</ubStunDamage>
+		<ubRadius>15</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>7</ubAnimationID>
+		<ubDuration>8</ubDuration>
+		<ubStartRadius>5</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>128</uiIndex>
 		<ubType>7</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
@@ -2500,7 +2710,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>119</uiIndex>
+		<uiIndex>129</uiIndex>
 		<ubType>1</ubType>
 		<ubDamage>1</ubDamage>
 		<ubStunDamage>140</ubStunDamage>
@@ -2521,7 +2731,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>120</uiIndex>
+		<uiIndex>130</uiIndex>
 		<ubType>2</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
@@ -2542,7 +2752,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>121</uiIndex>
+		<uiIndex>131</uiIndex>
 		<ubType>3</ubType>
 		<ubDamage>15</ubDamage>
 		<ubStunDamage>40</ubStunDamage>
@@ -2563,7 +2773,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>122</uiIndex>
+		<uiIndex>132</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>15</ubDamage>
 		<ubStunDamage>7</ubStunDamage>
@@ -2584,7 +2794,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>123</uiIndex>
+		<uiIndex>133</uiIndex>
 		<ubType>0</ubType>
 		<ubDamage>25</ubDamage>
 		<ubStunDamage>10</ubStunDamage>
@@ -2605,7 +2815,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>124</uiIndex>
+		<uiIndex>134</uiIndex>
 		<ubType>4</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
@@ -2626,7 +2836,7 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>125</uiIndex>
+		<uiIndex>135</uiIndex>
 		<ubType>6</ubType>
 		<ubDamage>0</ubDamage>
 		<ubStunDamage>0</ubStunDamage>
@@ -2647,360 +2857,150 @@
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
-		<uiIndex>126</uiIndex>
-		<ubType>0</ubType>
-		<ubDamage>10</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
-		<ubRadius>1</ubRadius>
-		<ubVolume>30</ubVolume>
-		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>0</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>70</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>22</ubFragDamage>
-		<ubFragRange>100</ubFragRange>
-		<ubHorizontalDegree>60</ubHorizontalDegree>
-		<ubVerticalDegree>2</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>127</uiIndex>
-		<ubType>0</ubType>
-		<ubDamage>10</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
-		<ubRadius>1</ubRadius>
-		<ubVolume>30</ubVolume>
-		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>0</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>70</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>22</ubFragDamage>
-		<ubFragRange>100</ubFragRange>
-		<ubHorizontalDegree>60</ubHorizontalDegree>
-		<ubVerticalDegree>2</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>128</uiIndex>
-		<ubType>0</ubType>
-		<ubDamage>10</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
-		<ubRadius>1</ubRadius>
-		<ubVolume>30</ubVolume>
-		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>0</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>70</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>22</ubFragDamage>
-		<ubFragRange>100</ubFragRange>
-		<ubHorizontalDegree>60</ubHorizontalDegree>
-		<ubVerticalDegree>2</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>129</uiIndex>
-		<ubType>0</ubType>
-		<ubDamage>10</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
-		<ubRadius>1</ubRadius>
-		<ubVolume>30</ubVolume>
-		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>0</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>70</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>22</ubFragDamage>
-		<ubFragRange>100</ubFragRange>
-		<ubHorizontalDegree>60</ubHorizontalDegree>
-		<ubVerticalDegree>2</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>130</uiIndex>
-		<ubType>0</ubType>
-		<ubDamage>10</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
-		<ubRadius>1</ubRadius>
-		<ubVolume>30</ubVolume>
-		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>0</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>70</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>22</ubFragDamage>
-		<ubFragRange>100</ubFragRange>
-		<ubHorizontalDegree>60</ubHorizontalDegree>
-		<ubVerticalDegree>2</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>131</uiIndex>
-		<ubType>0</ubType>
-		<ubDamage>10</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
-		<ubRadius>1</ubRadius>
-		<ubVolume>30</ubVolume>
-		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>0</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>70</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>22</ubFragDamage>
-		<ubFragRange>100</ubFragRange>
-		<ubHorizontalDegree>60</ubHorizontalDegree>
-		<ubVerticalDegree>2</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>132</uiIndex>
-		<ubType>0</ubType>
-		<ubDamage>10</ubDamage>
-		<ubStunDamage>10</ubStunDamage>
-		<ubRadius>1</ubRadius>
-		<ubVolume>30</ubVolume>
-		<ubVolatility>2</ubVolatility>
-		<ubAnimationID>1</ubAnimationID>
-		<ubDuration>0</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>1</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>70</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>22</ubFragDamage>
-		<ubFragRange>100</ubFragRange>
-		<ubHorizontalDegree>60</ubHorizontalDegree>
-		<ubVerticalDegree>2</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>133</uiIndex>
-		<ubType>7</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>1</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>134</uiIndex>
-		<ubType>7</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>1</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
-		<uiIndex>135</uiIndex>
-		<ubType>7</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>1</ubDuration>
-		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
-		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
-		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
-		<bIndoorModifier>0</bIndoorModifier>
-	</EXPLOSIVE>
-	<EXPLOSIVE>
 		<uiIndex>136</uiIndex>
-		<ubType>7</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>1</ubDuration>
+		<ubType>0</ubType>
+		<ubDamage>10</ubDamage>
+		<ubStunDamage>10</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>30</ubVolume>
+		<ubVolatility>2</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
+		<usNumFragments>70</usNumFragments>
 		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
+		<ubFragDamage>22</ubFragDamage>
+		<ubFragRange>100</ubFragRange>
+		<ubHorizontalDegree>60</ubHorizontalDegree>
+		<ubVerticalDegree>2</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>137</uiIndex>
-		<ubType>7</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>1</ubDuration>
+		<ubType>0</ubType>
+		<ubDamage>10</ubDamage>
+		<ubStunDamage>10</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>30</ubVolume>
+		<ubVolatility>2</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
+		<usNumFragments>70</usNumFragments>
 		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
+		<ubFragDamage>22</ubFragDamage>
+		<ubFragRange>100</ubFragRange>
+		<ubHorizontalDegree>60</ubHorizontalDegree>
+		<ubVerticalDegree>2</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>138</uiIndex>
-		<ubType>7</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>1</ubDuration>
+		<ubType>0</ubType>
+		<ubDamage>10</ubDamage>
+		<ubStunDamage>10</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>30</ubVolume>
+		<ubVolatility>2</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
+		<usNumFragments>70</usNumFragments>
 		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
+		<ubFragDamage>22</ubFragDamage>
+		<ubFragRange>100</ubFragRange>
+		<ubHorizontalDegree>60</ubHorizontalDegree>
+		<ubVerticalDegree>2</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>139</uiIndex>
-		<ubType>7</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>1</ubDuration>
+		<ubType>0</ubType>
+		<ubDamage>10</ubDamage>
+		<ubStunDamage>10</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>30</ubVolume>
+		<ubVolatility>2</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
+		<usNumFragments>70</usNumFragments>
 		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
+		<ubFragDamage>22</ubFragDamage>
+		<ubFragRange>100</ubFragRange>
+		<ubHorizontalDegree>60</ubHorizontalDegree>
+		<ubVerticalDegree>2</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>140</uiIndex>
-		<ubType>7</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>1</ubDuration>
+		<ubType>0</ubType>
+		<ubDamage>10</ubDamage>
+		<ubStunDamage>10</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>30</ubVolume>
+		<ubVolatility>2</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
+		<usNumFragments>70</usNumFragments>
 		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
+		<ubFragDamage>22</ubFragDamage>
+		<ubFragRange>100</ubFragRange>
+		<ubHorizontalDegree>60</ubHorizontalDegree>
+		<ubVerticalDegree>2</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>141</uiIndex>
-		<ubType>7</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>1</ubDuration>
+		<ubType>0</ubType>
+		<ubDamage>10</ubDamage>
+		<ubStunDamage>10</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>30</ubVolume>
+		<ubVolatility>2</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
+		<usNumFragments>70</usNumFragments>
 		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
+		<ubFragDamage>22</ubFragDamage>
+		<ubFragRange>100</ubFragRange>
+		<ubHorizontalDegree>60</ubHorizontalDegree>
+		<ubVerticalDegree>2</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
 		<uiIndex>142</uiIndex>
-		<ubType>7</ubType>
-		<ubDamage>0</ubDamage>
-		<ubStunDamage>0</ubStunDamage>
-		<ubRadius>0</ubRadius>
-		<ubVolume>0</ubVolume>
-		<ubVolatility>0</ubVolatility>
-		<ubAnimationID>0</ubAnimationID>
-		<ubDuration>1</ubDuration>
+		<ubType>0</ubType>
+		<ubDamage>10</ubDamage>
+		<ubStunDamage>10</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>30</ubVolume>
+		<ubVolatility>2</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>0</ubDuration>
 		<ubStartRadius>0</ubStartRadius>
-		<ubMagSize>0</ubMagSize>
+		<ubMagSize>1</ubMagSize>
 		<fExplodeOnImpact>0</fExplodeOnImpact>
-		<usNumFragments>0</usNumFragments>
+		<usNumFragments>70</usNumFragments>
 		<ubFragType>0</ubFragType>
-		<ubFragDamage>0</ubFragDamage>
-		<ubFragRange>0</ubFragRange>
-		<ubHorizontalDegree>0</ubHorizontalDegree>
-		<ubVerticalDegree>0</ubVerticalDegree>
+		<ubFragDamage>22</ubFragDamage>
+		<ubFragRange>100</ubFragRange>
+		<ubHorizontalDegree>60</ubHorizontalDegree>
+		<ubVerticalDegree>2</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
 	</EXPLOSIVE>
 	<EXPLOSIVE>
@@ -3104,6 +3104,363 @@
 		<ubFragType>0</ubFragType>
 		<ubFragDamage>0</ubFragDamage>
 		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>148</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>149</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>150</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>151</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>152</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>153</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>154</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>155</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>156</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>157</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>158</uiIndex>
+		<ubType>7</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>1</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>0</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>159</uiIndex>
+		<ubType>4</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>16</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>1</ubAnimationID>
+		<ubDuration>3</ubDuration>
+		<ubStartRadius>6</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>160</uiIndex>
+		<ubType>10</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>7</ubAnimationID>
+		<ubDuration>2</ubDuration>
+		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>161</uiIndex>
+		<ubType>10</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>0</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>7</ubAnimationID>
+		<ubDuration>2</ubDuration>
+		<ubStartRadius>1</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>162</uiIndex>
+		<ubType>6</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>0</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>7</ubAnimationID>
+		<ubDuration>2</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>163</uiIndex>
+		<ubType>8</ubType>
+		<ubDamage>40</ubDamage>
+		<ubStunDamage>30</ubStunDamage>
+		<ubRadius>3</ubRadius>
+		<ubVolume>15</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>10</ubAnimationID>
+		<ubDuration>5</ubDuration>
+		<ubStartRadius>2</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>0</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>0</ubFragDamage>
+		<ubFragRange>0</ubFragRange>
+		<ubHorizontalDegree>0</ubHorizontalDegree>
+		<ubVerticalDegree>0</ubVerticalDegree>
+		<bIndoorModifier>0.25</bIndoorModifier>
+	</EXPLOSIVE>
+	<EXPLOSIVE>
+		<uiIndex>164</uiIndex>
+		<ubType>0</ubType>
+		<ubDamage>0</ubDamage>
+		<ubStunDamage>0</ubStunDamage>
+		<ubRadius>1</ubRadius>
+		<ubVolume>5</ubVolume>
+		<ubVolatility>0</ubVolatility>
+		<ubAnimationID>0</ubAnimationID>
+		<ubDuration>0</ubDuration>
+		<ubStartRadius>0</ubStartRadius>
+		<ubMagSize>1</ubMagSize>
+		<fExplodeOnImpact>0</fExplodeOnImpact>
+		<usNumFragments>30</usNumFragments>
+		<ubFragType>0</ubFragType>
+		<ubFragDamage>3</ubFragDamage>
+		<ubFragRange>40</ubFragRange>
 		<ubHorizontalDegree>0</ubHorizontalDegree>
 		<ubVerticalDegree>0</ubVerticalDegree>
 		<bIndoorModifier>0</bIndoorModifier>
